@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alpha Nursing Academy — Learn • Practice • Succeed</title>
+    <meta name="description" content="Alpha Nursing Academy - Professional nursing education platform. Browse subjects, study chapters, and prepare for exams with our interactive quiz system.">
+    <meta name="keywords" content="nursing, education, quiz, anatomy, biophysics, nursing academy, alpha nursing">
+    <meta name="author" content="Alpha Nursing Academy">
+
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Google Fonts: Poppins -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome 6 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- ═══════════════════════════════════════════════════════════
+         LOADING SCREEN
+         Shown on initial page load, dismissed after config loads
+    ═══════════════════════════════════════════════════════════ -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="loader-content">
+            <div class="loader-logo">
+                <img src="assets/logo.jpg" alt="Alpha Nursing Academy logo"
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <i class="fas fa-heartbeat loader-logo-fallback"></i>
+            </div>
+            <h2 class="loader-title">Alpha Nursing Academy</h2>
+            <div class="loader-bar">
+                <div class="loader-bar-fill"></div>
+            </div>
+            <p class="loader-text">Preparing your learning experience...</p>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════
+         SIDEBAR — Fixed on desktop, slide-in drawer on mobile
+    ═══════════════════════════════════════════════════════════ -->
+    <aside id="sidebar" class="sidebar">
+        <!-- Sidebar Header with Logo -->
+        <div class="sidebar-header">
+            <div class="sidebar-logo-wrap">
+                <img src="assets/logo.jpg" alt="Alpha Nursing Academy Logo" class="sidebar-logo-img"
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <div class="sidebar-logo-fallback">
+                    <i class="fas fa-heartbeat"></i>
+                </div>
+            </div>
+            <h3 class="sidebar-brand">Alpha Nursing<br><span>Academy</span></h3>
+            <button id="sidebar-close" class="sidebar-close-btn" aria-label="Close sidebar">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+
+        <!-- Navigation Links -->
+        <nav class="sidebar-nav" role="navigation" aria-label="Main navigation">
+            <a href="#home" class="sidebar-link active" data-page="home" id="nav-home">
+                <i class="fas fa-home"></i>
+                <span>Home</span>
+            </a>
+            <a href="#subjects" class="sidebar-link" data-page="subjects" id="nav-subjects">
+                <i class="fas fa-book"></i>
+                <span>Subjects</span>
+            </a>
+            <a href="#about" class="sidebar-link" data-page="about" id="nav-about">
+                <i class="fas fa-info-circle"></i>
+                <span>About Academy</span>
+            </a>
+            <a href="#contact" class="sidebar-link" data-page="contact" id="nav-contact">
+                <i class="fas fa-phone-alt"></i>
+                <span>Contact Us</span>
+            </a>
+            <button type="button" class="sidebar-link donate-link" id="nav-donate">
+                <i class="fas fa-hand-holding-heart"></i>
+                <span>Donate</span>
+            </button>
+        </nav>
+
+        <!-- Sidebar Footer -->
+        <div class="sidebar-footer">
+            <div class="sidebar-footer-line"></div>
+            <p>&copy; <span class="auto-year"></span> Alpha Nursing Academy</p>
+        </div>
+    </aside>
+
+    <!-- Sidebar overlay (mobile backdrop) -->
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+    <!-- ═══════════════════════════════════════════════════════════
+         MAIN WRAPPER — Contains navbar, content, and footer
+    ═══════════════════════════════════════════════════════════ -->
+    <div id="main-wrapper" class="main-wrapper">
+
+        <!-- ─── Sticky Top Navbar ─── -->
+        <nav id="navbar" class="navbar">
+            <div class="navbar-left">
+                <button id="hamburger" class="hamburger-btn" aria-label="Open menu">
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                </button>
+                <!-- Breadcrumb Navigation -->
+                <div id="breadcrumb" class="breadcrumb" aria-label="Breadcrumb">
+                    <a href="#home" class="breadcrumb-item"><i class="fas fa-home"></i> Home</a>
+                </div>
+            </div>
+            <div class="navbar-right">
+                <!-- Search -->
+                <div class="search-container" id="search-container">
+                    <div class="search-input-wrap">
+                        <i class="fas fa-search search-icon"></i>
+                        <input type="text" id="search-input" class="search-input"
+                               placeholder="Search subjects & chapters..." autocomplete="off">
+                        <button id="search-clear" class="search-clear" aria-label="Clear search" style="display:none;">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    <div id="search-results" class="search-results"></div>
+                </div>
+                <!-- Dark Mode Toggle -->
+                <button id="dark-mode-toggle" class="dark-mode-btn" aria-label="Toggle dark mode">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <button id="donate-btn" class="donate-btn" type="button">
+                    <i class="fas fa-hand-holding-heart"></i>
+                    <span>Donate</span>
+                </button>
+            </div>
+        </nav>
+
+        <!-- ─── Main Content Area ─── -->
+        <main id="main-content" class="main-content" role="main">
+            <!-- Pages are rendered dynamically by app.js -->
+        </main>
+
+        <!-- ─── Footer ─── -->
+        <footer id="footer" class="footer">
+            <div class="footer-inner">
+                <div class="footer-grid">
+                    <!-- Brand Column -->
+                    <div class="footer-col footer-brand-col">
+                        <div class="footer-brand-icon">
+                            <i class="fas fa-heartbeat"></i>
+                        </div>
+                        <h3>Alpha Nursing Academy</h3>
+                        <p class="footer-tagline">Excellence in Nursing Education</p>
+                        <p class="footer-description">Empowering future nurses with quality education, comprehensive study materials, and exam preparation resources.</p>
+                    </div>
+                    <!-- Contacts Column -->
+                    <div class="footer-col">
+                        <h4>Contact Us</h4>
+                        <div class="footer-contact">
+                            <div class="footer-contact-card">
+                                <i class="fas fa-user-tie"></i>
+                                <div>
+                                    <strong>M. Sarfraz</strong>
+                                    <a href="tel:03357851085"><i class="fas fa-phone-alt"></i> 0335-7851085</a>
+                                </div>
+                            </div>
+                            <div class="footer-contact-card">
+                                <i class="fas fa-user-tie"></i>
+                                <div>
+                                    <strong>M. Farooq</strong>
+                                    <a href="tel:03225307355"><i class="fas fa-phone-alt"></i> 0322-5307355</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Quick Links Column -->
+                    <div class="footer-col">
+                        <h4>Quick Links</h4>
+                        <ul class="footer-links">
+                            <li><a href="#home"><i class="fas fa-chevron-right"></i> Home</a></li>
+                            <li><a href="#subjects"><i class="fas fa-chevron-right"></i> Subjects</a></li>
+                            <li><a href="#about"><i class="fas fa-chevron-right"></i> About Academy</a></li>
+                            <li><a href="#contact"><i class="fas fa-chevron-right"></i> Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Footer Bottom -->
+                <div class="footer-bottom">
+                    <div class="footer-bottom-line"></div>
+                    <p>&copy; <span class="auto-year"></span> Alpha Nursing Academy. All rights reserved.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════
+         SCROLL TO TOP BUTTON
+    ═══════════════════════════════════════════════════════════ -->
+    <button id="scroll-top" class="scroll-top-btn" aria-label="Scroll to top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- ═══════════════════════════════════════════════════════════
+         SCRIPTS — Loaded in order: loader → quiz → app
+    ═══════════════════════════════════════════════════════════ -->
+    <div id="donate-modal" class="donate-modal" aria-hidden="true">
+        <div class="donate-modal-backdrop" data-close-donate></div>
+        <div class="donate-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="donate-modal-title">
+            <button type="button" class="donate-modal-close" id="donate-modal-close" aria-label="Close donate popup">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="donate-modal-icon">
+                <i class="fas fa-hand-holding-heart"></i>
+            </div>
+            <h2 id="donate-modal-title">Donate</h2>
+            <p class="donate-modal-text">Use the account information below for support.</p>
+            <div class="donate-info">
+                <div class="donate-info-row">
+                    <span class="donate-label">Name</span>
+                    <span class="donate-value">Muhammad Farooq</span>
+                </div>
+                <div class="donate-info-row">
+                    <span class="donate-label">Account Title</span>
+                    <span class="donate-value">EasyPaisa / JazzCash</span>
+                </div>
+                <div class="donate-info-row">
+                    <span class="donate-label">Account No</span>
+                    <span class="donate-value">03225307355</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/loader.js"></script>
+    <script src="js/quiz.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
