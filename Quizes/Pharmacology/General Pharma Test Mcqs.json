@@ -1,0 +1,402 @@
+[
+  {
+    "question": "A patient is prescribed a drug that is unstable in gastric acid but should be absorbed in the intestine. Which formulation is most appropriate?",
+    "options": [
+      "Extended-release tablet",
+      "Sublingual tablet",
+      "Enteric-coated tablet",
+      "Immediate-release tablet"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which property makes an extended-release preparation different from an enteric-coated preparation?",
+    "options": [
+      "It slows drug release and prolongs its action",
+      "It completely bypasses first-pass metabolism",
+      "It prevents absorption from the intestine",
+      "It protects the drug from gastric acid"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient requires a drug to produce an effect rapidly while avoiding first-pass metabolism. Which route is most appropriate?",
+    "options": [
+      "Enteric-coated oral",
+      "Sublingual",
+      "Oral",
+      "Rectal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient is unconscious and cannot swallow medication. Which route would generally provide the most direct and controllable systemic delivery?",
+    "options": [
+      "Rectal",
+      "Buccal",
+      "Oral",
+      "Intravenous"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A drug is highly irritating to tissues. Which route should generally be avoided because it may cause severe pain and necrosis?",
+    "options": [
+      "Sublingual",
+      "Oral",
+      "Subcutaneous",
+      "Intravenous"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which drug is most likely to cross a biological membrane by passive diffusion?",
+    "options": [
+      "Highly polar drug",
+      "Lipid-soluble uncharged drug",
+      "Highly ionized drug",
+      "Large protein-bound drug"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A drug has a very large volume of distribution (Vd). Which finding is most likely?",
+    "options": [
+      "The drug cannot enter tissues",
+      "Most of the drug remains in plasma",
+      "The drug is extensively sequestered outside the plasma",
+      "The drug has a short half-life because it is easily eliminated"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A drug binds to a receptor and shifts it from the inactive state (R) toward the active state (R*), producing a biological response. This drug is best classified as:",
+    "options": [
+      "Inverse ligand",
+      "Antagonist",
+      "Agonist",
+      "Partial agonist"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Two drugs bind to the same receptor. Drug X produces a greater fraction of R* than Drug Y, but neither produces complete activation. Drug Y is most likely a:",
+    "options": [
+      "Enzyme inhibitor",
+      "Partial agonist",
+      "Full agonist",
+      "Antagonist"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A hydrophilic drug needs to interact with a receptor to produce its effect. Which receptor location is most likely?",
+    "options": [
+      "On the cell surface",
+      "Within the mitochondrial matrix",
+      "Inside the nucleus",
+      "Inside the cytoplasm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A drug activates a receptor that directly opens an ion channel for a few milliseconds. Which receptor family is involved?",
+    "options": [
+      "Enzyme-linked receptor",
+      "Ligand-gated ion channel",
+      "Intracellular receptor",
+      "G protein–coupled receptor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Acetylcholine activates a nicotinic receptor, resulting in sodium influx and an action potential. Which receptor mechanism best explains this effect?",
+    "options": [
+      "Production of IP₃ through Gq",
+      "Activation of nuclear transcription",
+      "Direct opening of an ion channel",
+      "Activation of tyrosine kinase"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A drug activates a G protein–coupled receptor associated with Gs. Which change is expected?",
+    "options": [
+      "Direct activation of tyrosine kinase",
+      "Increased adenylyl cyclase activity",
+      "Inhibition of adenylyl cyclase",
+      "Activation of phospholipase C"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A receptor activates phospholipase C through Gq. Which pair of second messengers is produced?",
+    "options": [
+      "DAG and cAMP",
+      "cGMP and ATP",
+      "IP₃ and DAG",
+      "cAMP and ATP"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which receptor family generally produces responses lasting seconds to minutes?",
+    "options": [
+      "G protein–coupled receptors",
+      "Nuclear transcription receptors",
+      "Intracellular receptors",
+      "Enzyme-linked receptors"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient receives insulin. The drug/hormone binds to a receptor that undergoes autophosphorylation of tyrosine residues. Which receptor family is involved?",
+    "options": [
+      "Intracellular receptor",
+      "Enzyme-linked receptor",
+      "Ligand-gated ion channel",
+      "G protein–coupled receptor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Two drugs produce the same maximum response, but Drug A achieves 50% of its maximum response at a lower concentration than Drug B. Which conclusion is correct?",
+    "options": [
+      "Drug B has greater efficacy",
+      "Drug A has greater potency",
+      "Drug B has greater potency",
+      "Drug A has greater efficacy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The EC50 of a drug is primarily used to assess its:",
+    "options": [
+      "Bioavailability",
+      "Toxicity",
+      "Potency",
+      "Efficacy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Drug A and Drug B require the same concentration to produce 50% of their maximum effects. However, Drug A produces a greater maximum response. Which statement is correct?",
+    "options": [
+      "Both have equal efficacy, but Drug A has greater potency",
+      "Drug A is more potent and more efficacious",
+      "Both have equal potency, but Drug A has greater efficacy",
+      "Drug B is more potent and more efficacious"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A partial agonist occupies 100% of available receptors. Compared with a full agonist occupying 100% of receptors, the partial agonist will generally produce:",
+    "options": [
+      "Zero Emax",
+      "A lower Emax",
+      "The same Emax",
+      "A greater Emax"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A drug occupies 100% of its receptor sites but produces no receptor activation. What is expected regarding its maximal efficacy?",
+    "options": [
+      "Emax depends only on EC50",
+      "Emax is zero",
+      "Emax is 100%",
+      "Emax is greater than a partial agonist"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Two drugs are compared in a graded dose-response experiment. Drug X produces a maximum response of 100%, while Drug Y produces only 60% even when all available receptors are occupied. Which interpretation is most appropriate?",
+    "options": [
+      "Drug Y must have greater efficacy",
+      "Drug X is more efficacious",
+      "Drug Y is more potent",
+      "Drug X has a higher EC50"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A drug binds to a receptor and produces the same maximum biological response as the endogenous ligand. How is it classified?",
+    "options": [
+      "Competitive antagonist",
+      "Inverse agonist",
+      "Full agonist",
+      "Partial agonist"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A full agonist has an intrinsic activity of:",
+    "options": [
+      "Between 0 and 1",
+      "−1",
+      "1",
+      "0"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A drug occupies 100% of a receptor population but produces only 50% of the maximum response produced by a full agonist. Which property best describes this drug?",
+    "options": [
+      "Partial agonism",
+      "Irreversible antagonism",
+      "Full efficacy",
+      "Zero intrinsic activity"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A partial agonist is administered to a patient who already has a high concentration of a full agonist acting at the same receptor. What may happen?",
+    "options": [
+      "The full agonist becomes an inverse agonist",
+      "The partial agonist can reduce the overall response",
+      "The partial agonist becomes an irreversible antagonist",
+      "The partial agonist can increase the Emax of the full agonist"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A receptor has spontaneous activity even in the absence of an agonist. A drug binds to this receptor and decreases its activity below the basal level. This drug is a:",
+    "options": [
+      "Competitive antagonist",
+      "Full agonist",
+      "Inverse agonist",
+      "Partial agonist"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The intrinsic activity of an inverse agonist is:",
+    "options": [
+      "Less than 0",
+      "Equal to 0",
+      "Equal to 1",
+      "Between 0 and 1"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A competitive antagonist binds reversibly to the same receptor site as an agonist. Which change is expected in the agonist dose–response curve?",
+    "options": [
+      "Rightward shift with unchanged Emax",
+      "Downward shift with decreased Emax",
+      "Leftward shift with increased Emax",
+      "Rightward shift with decreased Emax"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient receiving a competitive antagonist is given progressively higher concentrations of the agonist. The agonist eventually produces its original maximum response. What does this demonstrate?",
+    "options": [
+      "Functional antagonism",
+      "Allosteric antagonism",
+      "Surmountable competitive antagonism",
+      "Irreversible antagonism"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A competitive antagonist causes an increase in the EC50 of an agonist without changing its Emax. What does this indicate?",
+    "options": [
+      "Complete receptor activation",
+      "Increased agonist efficacy",
+      "Decreased agonist potency",
+      "Decreased agonist efficacy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An antagonist binds covalently to the active receptor site. Increasing the concentration of agonist cannot restore the original maximum response. Which type of antagonism is present?",
+    "options": [
+      "Partial agonism",
+      "Irreversible",
+      "Functional",
+      "Competitive"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A drug binds to a receptor site different from the agonist-binding site and decreases the maximum response of the agonist. Which type of antagonism is this?",
+    "options": [
+      "Functional",
+      "Quantal",
+      "Allosteric",
+      "Competitive"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which change is most characteristic of a noncompetitive antagonist?",
+    "options": [
+      "Decreased EC50 with unchanged Emax",
+      "Increased Emax with decreased EC50",
+      "Increased EC50 with unchanged Emax",
+      "Decreased Emax with little or no change in EC50"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Histamine causes bronchoconstriction through H1 receptors, while epinephrine causes bronchodilation through β2 receptors. Their opposing effects represent:",
+    "options": [
+      "Functional antagonism",
+      "Allosteric antagonism",
+      "Competitive antagonism",
+      "Irreversible antagonism"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A researcher defines a positive response to an antihypertensive drug as a ≥5-mm Hg fall in diastolic blood pressure and records whether each patient responds or does not respond. This represents a:",
+    "options": [
+      "Competitive dose-response relationship",
+      "Quantal dose-response relationship",
+      "Graded dose-response relationship",
+      "Receptor-binding curve"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In a population study, the dose of a drug that produces the predefined therapeutic response in 50% of individuals is called:",
+    "options": [
+      "Emax",
+      "TD50",
+      "ED50",
+      "EC50"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A drug has a TD50 of 100 mg and an ED50 of 10 mg. What is its therapeutic index?",
+    "options": [
+      "100",
+      "10",
+      "0.1",
+      "1"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A drug has a low therapeutic index. What does this most directly indicate?",
+    "options": [
+      "The drug cannot produce toxicity",
+      "Small changes in dose may have important consequences",
+      "There is a wide margin between effective and toxic doses",
+      "The drug always has low efficacy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient is prescribed a drug that is unstable in gastric acid but should be absorbed in the intestine. Which formulation is most appropriate?",
+    "options": [
+      "Sublingual tablet",
+      "Extended-release tablet",
+      "Immediate-release tablet",
+      "Enteric-coated tablet"
+    ],
+    "correctAnswer": 3
+  }
+]

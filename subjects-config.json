@@ -1,0 +1,60 @@
+{
+  "subjects": [
+    {
+      "name": "AHN",
+      "icon": "fa-user-nurse",
+      "color": "#e74c3c",
+      "folder": "AHN",
+      "chapters": []
+    },
+    {
+      "name": "Pathology",
+      "icon": "fa-microscope",
+      "color": "#2ecc71",
+      "folder": "Pathology",
+      "chapters": []
+    },
+    {
+      "name": "Pharmacology",
+      "icon": "fa-pills",
+      "color": "#9b59b6",
+      "folder": "Pharmacology",
+      "chapters": ["General Pharma Test Mcqs"]
+    },
+    {
+      "name": "Civics",
+      "icon": "fa-landmark",
+      "color": "#3498db",
+      "folder": "Civics",
+      "chapters": []
+    },
+    {
+      "name": "Entrepreneurship",
+      "icon": "fa-briefcase",
+      "color": "#e67e22",
+      "folder": "Entrepreneurship",
+      "chapters": []
+    },
+    {
+      "name": "ICT",
+      "icon": "fa-laptop-code",
+      "color": "#1abc9c",
+      "folder": "ICT",
+      "chapters": []
+    },
+    {
+      "name": "Microbiology",
+      "icon": "fa-bacteria",
+      "color": "#f39c12",
+      "folder": "Microbiology",
+      "chapters": []
+    },
+    {
+      "name": "HA",
+      "icon": "fa-stethoscope",
+      "color": "#f39c12",
+      "folder": "HA",
+      "chapters": []
+    }
+  ]
+}
