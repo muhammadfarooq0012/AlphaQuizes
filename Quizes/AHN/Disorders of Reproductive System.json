@@ -213,5 +213,15 @@
       "Bca3 And Brca4"
     ],
     "correctAnswer": 0
-  }
+  },
+  {
+  "question": "Firm, overdeveloped breast tissue typically seen in adolescent boys is called:",
+  "options": [
+    "Small breast",
+    "Mastectomy",
+    "Gynecomastia",
+    "Mastalgia"
+  ],
+  "correctAnswer": 2
+}
 ]
