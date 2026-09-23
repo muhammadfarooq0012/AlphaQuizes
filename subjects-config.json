@@ -54,7 +54,7 @@
       "icon": "fa-stethoscope",
       "color": "#f39c12",
       "folder": "HA",
-      "chapters": []
+      "chapters": ["Chapter 01 and Chapter 02"]
     }
   ]
 }

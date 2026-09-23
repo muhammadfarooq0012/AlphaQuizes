@@ -1,0 +1,302 @@
+[
+  {
+    "question": "The result of a nursing assessment is the",
+    "options": [
+      "Prescription of treatment.",
+      "Documentation of the need for a referral.",
+      "Client’s physiologic status.",
+      "Formulation of nursing diagnoses."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Although the assessment phase of the nursing process precedes the other phases, the assessment phase is",
+    "options": [
+      "Continuous.",
+      "Completed on admission.",
+      "Linear.",
+      "Performed only by nurses."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When a client first enters the hospital for an elective surgical procedure, the nurse should perform an assessment termed.",
+    "options": [
+      "Entry.",
+      "Exploratory.",
+      "Focused.",
+      "Comprehensive."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Before beginning a comprehensive health assessment of an adult client, the nurse should explain to the client that the purpose of the assessment is to",
+    "options": [
+      "Arrive at conclusions about the client’s health.",
+      "Document any physical symptoms the client may have.",
+      "Contribute to the medical diagnosis.",
+      "Validate the data collected."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "During an interview, the nurse collects both subjective and objective data from an adult client. Subjective data would include the client’s",
+    "options": [
+      "Perception of pain.",
+      "Height.",
+      "Weight.",
+      "Temperature."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The nurse is interviewing a client in the clinic for the first time. The client appears to have very limited vocabulary. The nurse should plan to",
+    "options": [
+      "Use very basic lay terminology.",
+      "Have a family member present during the interview.",
+      "Use standard medical terminology.",
+      "Show the client pictures of different symptoms, such as the “faces pain chart.”"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The nurse is interviewing a 78-year-old client for the first time. The nurse should first",
+    "options": [
+      "Assess the client’s hearing acuity.",
+      "Establish rapport with the client.",
+      "Obtain biographic data.",
+      "Use medical terminology appropriately."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "During an interview between a nurse and a client, the nurse and the client collaborate to identify problems and goals. This occurs during the phase of the interview termed",
+    "options": [
+      "Introductory.",
+      "Ongoing.",
+      "Working.",
+      "Closure."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The nurse is planning to interview a client who has demonstrated manipulative behaviors during past clinic visits. During the interview process, the nurse should plan to",
+    "options": [
+      "Give the client rules with which he must agree to comply.",
+      "Provide structure and set limits with the client.",
+      "Tell the client that the nurse is aware of his past behaviors.",
+      "Approach the client in an authoritative manner."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "While interviewing an adult client about the client’s stress levels and coping responses, an appropriate question by the nurse is",
+    "options": [
+      "Do you feel stress at work?",
+      "How often do you feel stressed?",
+      "Is stress a problem in your life?",
+      "How do you manage your stress?"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "While performing a physical examination on an older adult, the nurse should plan to",
+    "options": [
+      "Complete the examination as quickly as possible.",
+      "Ask the client to change positions frequently.",
+      "Provide only minimal teaching related to health care.",
+      "Use minimal position changes."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "During a comprehensive assessment, the primary technique used by the nurse throughout the examination is",
+    "options": [
+      "Palpation.",
+      "Percussion.",
+      "Auscultation.",
+      "Inspection."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "While examining a client, the nurse plans to palpate temperature of the skin by using the",
+    "options": [
+      "Fingertips of the hand.",
+      "Ulnar surface of the hand.",
+      "Dorsal surface of the hand.",
+      "Palmar surface of the hand."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During palpation of a client’s organs, the nurse palpates the spleen by applying pressure between 2.5 and 5 cm. The nurse is performing",
+    "options": [
+      "Light palpation.",
+      "Moderate palpation.",
+      "Deep palpation.",
+      "Very deep palpation."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When the nurse places one hand flat on the body surface and uses the fist of the other hand to strike the back of the hand flat on the body surface, the nurse is using",
+    "options": [
+      "Firm percussion.",
+      "Direct percussion.",
+      "Indirect percussion.",
+      "Blunt percussion."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The most commonly used method of percussion is",
+    "options": [
+      "Direct percussion.",
+      "Mild percussion.",
+      "Indirect percussion.",
+      "Blunt percussion."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During a comprehensive assessment of the lungs of an adult client with a diagnosis of emphysema, the nurse anticipates that during percussion the client will exhibit",
+    "options": [
+      "Hyperresonance.",
+      "Tympany.",
+      "Dullness.",
+      "Flatness."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "While percussing an adult client during a physical examination, the nurse can expect to hear flatness over the client’s",
+    "options": [
+      "Lungs.",
+      "Bone.",
+      "Liver.",
+      "Abdomen."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If the nurse makes an error while documenting findings on a client’s record, the nurse should",
+    "options": [
+      "Erase the error and make the correction.",
+      "Obliterate the error and make the correction.",
+      "Draw a line through the error and have it witnessed.",
+      "Draw a line through the error, writing “error” and initialing."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The nurse is preparing to document assessment findings in a client’s record. The nurse should",
+    "options": [
+      "Write in complete sentences with few abbreviations.",
+      "Avoid slang terms or labels unless they are direct quotes.",
+      "Record how the data were collected.",
+      "Use the term normal for normal findings."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The nurse has assessed the breath sounds of an adult client. The best way for the nurse to document these findings on a client is to write",
+    "options": [
+      "Bilateral lung sounds clear.",
+      "The client’s lung sounds were clear on both sides.",
+      "Client’s lung sounds were auscultated with stethoscope and were clear on both sides.",
+      "After listening to client’s lung sounds, both lungs appeared clear."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An example of an objective finding in an adult client is",
+    "options": [
+      "A client’s symptom of pain.",
+      "Family history data.",
+      "Genetic disorders.",
+      "Vital signs."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "While recording the subjective data of an adult client who complains of pain in his lower back, the nurse should include the location of the pain and the",
+    "options": [
+      "Cause of the pain.",
+      "Client’s caregiver.",
+      "Client’s occupation.",
+      "Pain relief measures."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "One disadvantage of the open-ended assessment form is that it",
+    "options": [
+      "Does not allow for individualization.",
+      "Asks standardized questions.",
+      "Requires a lot of time to complete.",
+      "Does not provide a total picture of the client."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The nurse is recording admission data for an adult client using a cued or checklist type of assessment form. This type of assessment form",
+    "options": [
+      "Prevents missed questions during data collection.",
+      "Covers all the data that a client may provide.",
+      "Clusters the assessment data with nursing diagnoses.",
+      "Establishes comparability of data across populations."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "One advantage for an institution to use an integrated cued/checklist type of assessment data form is that it",
+    "options": [
+      "Allows a comprehensive and thorough picture of the client’s symptoms.",
+      "May be easily used by different levels of caregivers, which enhances communication.",
+      "Provides for easy and rapid documentation across clinical settings and populations.",
+      "Includes the 11 health care patterns in an easily readable format."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In some health care settings, the institution uses an assessment form that assesses only one part of a client. These types of forms are termed",
+    "options": [
+      "Progressive.",
+      "Specific.",
+      "Checklist.",
+      "Focused."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The nurse is planning to assess a newly admitted adult client. While gathering data from the client, the nurse should",
+    "options": [
+      "Validate all data before documentation of the data.",
+      "Document the data after the entire examination process.",
+      "Record the nurse’s understanding of the client’s problem.",
+      "Use medical terms that are commonly used in health care settings."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Before the nurse analyzes the data collected, the nurse should",
+    "options": [
+      "Determine collaborative problems with the health care team.",
+      "Group the data into clusters or groups of problems.",
+      "Generate possible hypotheses for the client’s problems.",
+      "Perform the steps of the assessment process accurately."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A common error for beginning nurses who are formulating nursing diagnoses during data analysis is to",
+    "options": [
+      "Formulate too many nursing diagnoses for the client and family.",
+      "Include too much data about the client in the history.",
+      "Obtain an insufficient number of cues and cluster patterns.",
+      "Quickly make a diagnosis without hypothesizing several diagnoses."
+    ],
+    "correctAnswer": 3
+  }
+]
