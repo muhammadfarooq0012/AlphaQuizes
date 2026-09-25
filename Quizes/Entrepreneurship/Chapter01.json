@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A person notices that students near a university have difficulty finding affordable meals. He arranges resources and starts a low-cost food service. This person is best described as a:",
+    "options": [
+      "Manager",
+      "Employee",
+      "Entrepreneur",
+      "Consumer"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following best describes entrepreneurship?",
+    "options": [
+      "The process of identifying opportunities, organizing resources, taking calculated risks, and starting a business",
+      "Working permanently under another organization",
+      "Purchasing goods only for personal use",
+      "Avoiding all forms of business risk"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A person starts a business mainly to solve the problem of poor access to education in a rural area. Which type of entrepreneurship is this?",
+    "options": [
+      "Manufacturing entrepreneurship",
+      "Large-scale entrepreneurship",
+      "Commercial entrepreneurship",
+      "Social entrepreneurship"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which classification of entrepreneurship is based on whether the business is small, medium, or large?",
+    "options": [
+      "Based on ownership",
+      "Based on scale of operation",
+      "Based on innovation",
+      "Based on purpose"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Ali observes a successful delivery service and starts a similar business but improves its customer support system. Ali is most likely a/an:",
+    "options": [
+      "Drone entrepreneur",
+      "Social entrepreneur",
+      "Imitative entrepreneur",
+      "Fabian entrepreneur"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is normally the first step in the entrepreneurial process?",
+    "options": [
+      "Decision to become an entrepreneur",
+      "Managing and growing the firm",
+      "Hiring hundreds of workers",
+      "Expanding the business internationally"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An entrepreneur has already identified a promising business idea. What should logically happen next according to the entrepreneurial process?",
+    "options": [
+      "Close the business",
+      "Avoid arranging resources",
+      "Immediately create another unrelated company",
+      "Move from the idea toward an actual entrepreneurial firm"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which stage of the entrepreneurial process mainly involves solving problems, improving operations, and expanding the business?",
+    "options": [
+      "Developing a business idea",
+      "Managing and growing an entrepreneurial firm",
+      "Deciding to become an entrepreneur",
+      "Identifying personal demographics"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A company develops a completely new type of smart medical device. The founder is best classified as a/an:",
+    "options": [
+      "Innovative entrepreneur",
+      "Drone entrepreneur",
+      "Fabian entrepreneur",
+      "Salary-substitute entrepreneur"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A traditional shop owner starts accepting digital payments only after observing their success for several years. This behavior best represents a:",
+    "options": [
+      "Serial entrepreneur",
+      "Innovative entrepreneur",
+      "Fabian entrepreneur",
+      "Drone entrepreneur"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A shopkeeper refuses to use online payments even though most customers prefer them. Which entrepreneurial type best fits this situation?",
+    "options": [
+      "Social entrepreneur",
+      "Drone entrepreneur",
+      "Innovative entrepreneur",
+      "Serial entrepreneur"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Sara opens a clothing store and later starts a restaurant as a separate business. She is best described as a:",
+    "options": [
+      "Fabian entrepreneur",
+      "Drone entrepreneur",
+      "Social entrepreneur",
+      "Serial entrepreneur"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is a valid reason for becoming an entrepreneur according to the chapter?",
+    "options": [
+      "To gain independence",
+      "To avoid all decision-making",
+      "To guarantee success",
+      "To eliminate competition"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement represents a common misconception about entrepreneurs rather than a fact presented in the notes?",
+    "options": [
+      "Entrepreneurs can create employment",
+      "Entrepreneurs can contribute to economic development",
+      "Entrepreneurs must always have a completely new idea",
+      "Entrepreneurs may seek personal satisfaction"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Ahmed believes that only people born with entrepreneurial ability can become entrepreneurs. Which misconception is he showing?",
+    "options": [
+      "Entrepreneurs always succeed",
+      "Entrepreneurs are born, not made",
+      "Entrepreneurs must be young",
+      "Entrepreneurs only start technology firms"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which quality would be most useful when an entrepreneur faces repeated business problems but continues trying to achieve the goal?",
+    "options": [
+      "Avoidance",
+      "Dependence",
+      "Resistance to learning",
+      "Persistence"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A business owner quickly changes the business model after noticing major changes in customer demand. Which entrepreneurial quality is most clearly demonstrated?",
+    "options": [
+      "Adaptability",
+      "Fear of failure",
+      "Lack of initiative",
+      "Dependence"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An entrepreneur must choose between two suppliers after comparing price, quality, and reliability. Which entrepreneurial quality is mainly being used?",
+    "options": [
+      "Physical strength",
+      "Creativity only",
+      "Decision-making ability",
+      "Social background"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A skilled person has an excellent business idea but cannot obtain enough money to start operations. What barrier is this person facing?",
+    "options": [
+      "Lack of technology",
+      "Lack of finance",
+      "Social barrier",
+      "Poor communication"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A new entrepreneur hesitates to start a business because he is worried that the business may not succeed. Which barrier is illustrated?",
+    "options": [
+      "Government regulation",
+      "Strong competition",
+      "Lack of infrastructure",
+      "Fear of failure"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A village entrepreneur cannot sell products outside the local area because transportation and communication facilities are inadequate. Which barrier best explains this problem?",
+    "options": [
+      "Poor infrastructure",
+      "Lack of creativity",
+      "Lack of ownership",
+      "Lack of personal satisfaction"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement best defines a start-up firm?",
+    "options": [
+      "A government organization that regulates businesses",
+      "A business that must already be multinational",
+      "A newly established business created to develop and sell a product or service",
+      "A business that cannot aim for growth"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A person opens a small tailoring shop mainly to earn income similar to a regular salary. This business is an example of a:",
+    "options": [
+      "Lifestyle firm",
+      "Salary-substitute firm",
+      "Entrepreneurial firm",
+      "Social firm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A photographer starts a business mainly so she can earn money while maintaining flexible working hours and a preferred lifestyle. This is a:",
+    "options": [
+      "Manufacturing firm",
+      "Salary-substitute firm",
+      "Large-scale firm",
+      "Lifestyle firm"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A technology company is created with the intention of expanding rapidly and becoming a large organization. This is best classified as a:",
+    "options": [
+      "Entrepreneurial firm",
+      "Lifestyle firm",
+      "Salary-substitute firm",
+      "Cooperative firm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An economy depends mainly on natural resources and cheap labor, while businesses compete largely through low costs. Which stage of economic development does this represent?",
+    "options": [
+      "Innovation-driven economy",
+      "Digital-driven economy",
+      "Factor-driven economy",
+      "Efficiency-driven economy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Large factories focus on improving production methods so that more goods can be produced at lower cost. This situation is most closely related to a/an:",
+    "options": [
+      "Factor-driven economy",
+      "Efficiency-driven economy",
+      "Social economy",
+      "Agricultural economy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Businesses in an economy compete by creating new technologies, products, and services. Which stage of economic development best describes this economy?",
+    "options": [
+      "Factor-driven economy",
+      "Traditional economy",
+      "Efficiency-driven economy",
+      "Innovation-driven economy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A young entrepreneur who grew up using smartphones, social media, and digital technology belongs, according to the chapter, to which generation if born between 1997 and 2012?",
+    "options": [
+      "Generation Z",
+      "Generation X",
+      "Baby Boomers",
+      "Millennials"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A new company hires 100 unemployed workers in a local community. Which role of entrepreneurship in economic development is most directly demonstrated?",
+    "options": [
+      "Increasing government regulations",
+      "Reducing innovation",
+      "Employment creation and reduction of unemployment",
+      "Increasing social barriers"
+    ],
+    "correctAnswer": 2
+  }
+]
