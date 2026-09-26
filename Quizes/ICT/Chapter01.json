@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which statement best describes ICT?",
+    "options": [
+      "Only the use of mobile phones",
+      "The use of digital technologies to collect, store, process, retrieve, and share information",
+      "Only the study of computer hardware",
+      "A system used only for entertainment"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A hospital uses computers, internet services, and digital records to improve patient care. This is an example of:",
+    "options": [
+      "ICT in healthcare",
+      "ICT in gaming only",
+      "Manual communication",
+      "Non-digital processing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is hardware?",
+    "options": [
+      "Windows",
+      "MS Word",
+      "Chrome",
+      "Keyboard"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which statement correctly distinguishes hardware from software?",
+    "options": [
+      "Hardware cannot be touched, while software can be touched",
+      "Both hardware and software are physical",
+      "Hardware is physical, while software consists of programs and instructions",
+      "Software works without hardware"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A student uses a scanner to enter a printed document into a computer. The scanner is a/an:",
+    "options": [
+      "Input device",
+      "Output device",
+      "Storage device",
+      "Processing device"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which device mainly produces output from a computer?",
+    "options": [
+      "Microphone",
+      "Keyboard",
+      "Printer",
+      "Scanner"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which device is mainly responsible for processing data and performing calculations?",
+    "options": [
+      "USB drive",
+      "CPU",
+      "Monitor",
+      "Router"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A router is mainly classified as which type of hardware?",
+    "options": [
+      "Storage device",
+      "Processing device",
+      "Output device",
+      "Communication device"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of primary storage?",
+    "options": [
+      "It is generally faster and directly accessed by the CPU",
+      "It always stores data permanently",
+      "It has larger capacity than secondary storage",
+      "It is never affected when power is turned off"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which is an example of secondary storage?",
+    "options": [
+      "Cache memory",
+      "RAM",
+      "CPU register",
+      "SSD"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A computer user wants software that manages computer hardware and allows the system to work properly. Which type is required?",
+    "options": [
+      "Application software",
+      "Utility software",
+      "System software",
+      "Programming software"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which software is mainly used to perform a specific user task?",
+    "options": [
+      "Application software",
+      "System software",
+      "Network hardware",
+      "Processing software"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Antivirus and Disk Cleanup are examples of:",
+    "options": [
+      "Programming software",
+      "Utility software",
+      "Application software",
+      "Hardware"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A programmer is writing and debugging a computer program. Which type of software is most directly useful?",
+    "options": [
+      "Utility software",
+      "Application software",
+      "System software only",
+      "Programming software"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which platform is designed mainly for smartphones and tablets?",
+    "options": [
+      "Desktop platform",
+      "Mobile platform",
+      "Cloud storage device",
+      "Network topology"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A user opens Google Docs directly through a browser without installing it as desktop software. This is an example of a:",
+    "options": [
+      "Web-based platform",
+      "Processing platform",
+      "Hardware platform",
+      "Secondary storage platform"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which platform allows users to store files online and access them from different locations?",
+    "options": [
+      "Bus platform",
+      "Desktop platform only",
+      "Cloud platform",
+      "Input platform"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A school computer lab connects several computers within one building. Which network type is most suitable?",
+    "options": [
+      "WAN",
+      "MAN",
+      "PAN",
+      "LAN"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A bank connects several of its branches located within the same city. Which network type is most appropriate?",
+    "options": [
+      "MAN",
+      "PAN",
+      "LAN only",
+      "WAN"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A company connects offices located in different countries. Which type of network is most suitable?",
+    "options": [
+      "PAN",
+      "LAN",
+      "WAN",
+      "MAN"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A smartphone is connected to wireless headphones using Bluetooth. This is an example of:",
+    "options": [
+      "WAN",
+      "PAN",
+      "MAN",
+      "LAN"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is a major advantage of a wireless network?",
+    "options": [
+      "It requires more physical cables",
+      "Devices cannot be moved",
+      "It always has higher installation cost",
+      "Users can move while remaining connected"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In an ICT network, rules and standards that control data communication are called:",
+    "options": [
+      "Protocols",
+      "Users",
+      "Hardware",
+      "Infrastructure only"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A network connects every computer to one central switch. Which topology is being used?",
+    "options": [
+      "Ring topology",
+      "Bus topology",
+      "Star topology",
+      "Mesh topology"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which topology connects all devices to a single backbone cable?",
+    "options": [
+      "Mesh topology",
+      "Bus topology",
+      "Tree topology",
+      "Hybrid topology"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A military communication system requires multiple connections between devices so that communication can continue even if one path fails. Which topology is most suitable according to the notes?",
+    "options": [
+      "Mesh topology",
+      "Bus topology",
+      "Ring topology",
+      "Star topology only"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A university network uses a hierarchical arrangement that combines multiple star networks. Which topology is this?",
+    "options": [
+      "Ring topology",
+      "Hybrid topology",
+      "Mesh topology",
+      "Tree topology"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A user stores files on Google Drive so that they can access them through the internet from different devices. This is an example of:",
+    "options": [
+      "Local data storage",
+      "External data storage",
+      "Cloud data storage",
+      "Primary storage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which emerging technology connects smart devices through the internet for data sharing and control?",
+    "options": [
+      "Blockchain",
+      "Internet of Things",
+      "Big Data only",
+      "Robotics only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A factory introduces robots that perform repetitive tasks previously done by workers. Which problem of emerging technology may result from this change?",
+    "options": [
+      "Job displacement due to automation",
+      "Increased use of physical cables",
+      "Reduced data storage capacity",
+      "Elimination of all cybersecurity risks"
+    ],
+    "correctAnswer": 0
+  }
+]
