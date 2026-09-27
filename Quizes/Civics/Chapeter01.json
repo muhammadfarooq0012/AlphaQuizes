@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which statement best defines Civics?",
+    "options": [
+      "The study of business organizations",
+      "The study of rights, duties, government, and citizenship in society",
+      "The study of geographical boundaries",
+      "The study of economic production"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The term “Civics” is derived from the Latin word civicus, which means:",
+    "options": [
+      "Relating to a citizen",
+      "Relating to government only",
+      "Relating to law",
+      "Relating to society only"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A person is not allowed admission to a school because of unfair discrimination. Which basic civic right is most directly affected?",
+    "options": [
+      "Right to Property",
+      "Right to Vote",
+      "Right to Privacy",
+      "Right to Equality"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A citizen regularly pays taxes, follows laws, and protects public property. This person is mainly performing:",
+    "options": [
+      "Political rights",
+      "Judicial powers",
+      "Civic responsibilities",
+      "Government functions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which is an important benefit of studying Civics?",
+    "options": [
+      "It helps citizens understand their rights and duties",
+      "It teaches citizens to avoid community participation",
+      "It removes the need for laws",
+      "It gives citizens unlimited freedom"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A person who legally belongs to a country and enjoys its rights and performs its duties is called a:",
+    "options": [
+      "Voter",
+      "Citizen",
+      "Minister",
+      "Judge"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person receives citizenship through an official legal procedure rather than by birth. This person is a:",
+    "options": [
+      "Natural citizen",
+      "Honorary citizen",
+      "Dual citizen",
+      "Naturalized citizen"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A person legally holds citizenship of two countries at the same time. Which type of citizen is this?",
+    "options": [
+      "Dual citizen",
+      "Active citizen",
+      "Global citizen",
+      "Temporary citizen"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Ahmad regularly volunteers in his community, follows laws, and works to solve local problems. He is best described as a/an:",
+    "options": [
+      "Honorary citizen",
+      "Temporary citizen",
+      "Active citizen",
+      "Naturalized citizen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A student uses social media responsibly, protects personal information, and shares useful information online. This is an example of:",
+    "options": [
+      "Participatory citizenship",
+      "Digital citizenship",
+      "Honorary citizenship",
+      "Permanent citizenship"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement correctly distinguishes citizenship from nationality according to the notes?",
+    "options": [
+      "Citizenship gives legal rights and responsibilities, while nationality shows a person's legal connection with a country",
+      "Nationality always gives voting rights",
+      "Citizenship is always received only by birth",
+      "Citizenship and nationality have no differences"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A group of students voluntarily cleans a public park in their area. Which type of civic engagement is this?",
+    "options": [
+      "Political engagement",
+      "Digital engagement",
+      "Educational engagement",
+      "Community service"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A citizen attends a public meeting and takes part in an election. Which type of civic engagement is most directly demonstrated?",
+    "options": [
+      "Environmental engagement",
+      "Political engagement",
+      "Social engagement",
+      "Educational engagement"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A group starts a tree-planting campaign and encourages people to recycle waste. This is an example of:",
+    "options": [
+      "Political engagement",
+      "Digital engagement",
+      "Environmental engagement",
+      "Judicial engagement"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which principle means that no person is above the law and the same laws apply to everyone?",
+    "options": [
+      "Rule of law",
+      "Sovereignty",
+      "Civil society",
+      "Nationality"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "People from different cultures, languages, and religions live peacefully and respect each other's differences. Which foundation of modern society does this best represent?",
+    "options": [
+      "Accountability",
+      "Sovereignty",
+      "Freedom only",
+      "Unity and diversity"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A State is best defined as:",
+    "options": [
+      "Only the government of a country",
+      "A group of people living in a fixed area under a government with power to make and enforce laws",
+      "A voluntary social organization",
+      "A group of political parties"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is NOT one of the four basic elements of a State given in the notes?",
+    "options": [
+      "Population",
+      "Territory",
+      "Political party",
+      "Sovereignty"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The supreme and independent power of a State to govern itself is called:",
+    "options": [
+      "Sovereignty",
+      "Citizenship",
+      "Accountability",
+      "Democracy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A government establishes courts so that disputes can be resolved fairly. Which function is being performed?",
+    "options": [
+      "Increasing population",
+      "Providing justice",
+      "Creating nationality",
+      "Developing political parties"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which organ of government is responsible for making laws?",
+    "options": [
+      "Judiciary",
+      "Executive",
+      "Civil service",
+      "Legislature"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which organ of government mainly implements and enforces laws?",
+    "options": [
+      "Legislature",
+      "Judiciary",
+      "Executive",
+      "Civil society"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A court examines the meaning of a law and gives a legal decision. Which organ of government is performing this function?",
+    "options": [
+      "Judiciary",
+      "Executive",
+      "Legislature",
+      "Cabinet"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement best distinguishes the State from the Government?",
+    "options": [
+      "The government is broader than the State",
+      "The State is relatively permanent, while governments can change",
+      "Government possesses territory while the State does not",
+      "The State is only a group of leaders"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In which form of government do people choose their representatives through elections?",
+    "options": [
+      "Monarchy",
+      "Dictatorship",
+      "Democracy",
+      "Oligarchy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In an oligarchy, political power is mainly held by:",
+    "options": [
+      "All citizens equally",
+      "A hereditary king only",
+      "Religious institutions only",
+      "A small group of people"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Citizens question government decisions and expect leaders to explain their actions. Which democratic principle does this illustrate?",
+    "options": [
+      "Accountability",
+      "Sovereignty",
+      "Monarchy",
+      "Nationality"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following best describes civil society according to the chapter?",
+    "options": [
+      "Government ministries and courts",
+      "Voluntary organizations and groups working outside government and private businesses for society's welfare",
+      "Only elected representatives",
+      "Business corporations controlled by the government"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An NGO raises awareness about citizens' rights and asks public officials to explain their decisions. Which role of civil society is demonstrated most clearly?",
+    "options": [
+      "Conducting national defense",
+      "Making court judgments",
+      "Protecting rights and promoting accountability",
+      "Collecting government taxes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A citizen enters a polling booth and chooses a candidate without anyone knowing the choice. Which type of voting is this?",
+    "options": [
+      "Open voting",
+      "Indirect voting",
+      "Public voting",
+      "Secret voting"
+    ],
+    "correctAnswer": 3
+  }
+]
