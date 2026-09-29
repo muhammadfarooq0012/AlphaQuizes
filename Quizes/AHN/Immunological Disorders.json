@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A deficient immune system response that is congenital in origin would be classified as what kind of disorder?",
+    "options": [
+      "Autoimmune",
+      "Gammopathy",
+      "Natural deficiency",
+      "Hypersensitivity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The immune system is essentially composed of:",
+    "options": [
+      "Bone marrow",
+      "Lymphoid tissue",
+      "White blood cells",
+      "All of the above components"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The primary production site of white blood cells involved in immunity is the:",
+    "options": [
+      "Bone marrow",
+      "Thymus gland",
+      "Adenoids",
+      "Spleen"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "T lymphocytes, descendants of stem cells, mature in the:",
+    "options": [
+      "Bone marrow",
+      "Thymus",
+      "Spleen",
+      "Lymph nodes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Granulocytes, which fight invasion by releasing histamine, do not include:",
+    "options": [
+      "Basophils",
+      "Lymphocytes",
+      "Eosinophils",
+      "Neutrophils"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The leukocytes that arrive first at a site where inflammation occurs are:",
+    "options": [
+      "B lymphocytes",
+      "Helper T cells",
+      "Cytotoxic T cells",
+      "Neutrophils"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "White blood cells that function as phagocytes are called:",
+    "options": [
+      "Basophils",
+      "Monocytes",
+      "Eosinophils",
+      "Lymphocytes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An example of biologic response modifiers that interfere with viruses is:",
+    "options": [
+      "Bradykinin",
+      "Granulocytes",
+      "Eosinophils",
+      "Interferon"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The body's first line of defense is the:",
+    "options": [
+      "Antibody response",
+      "Cellular immune response",
+      "Phagocytic immune response",
+      "White blood cell response"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The primary cells responsible for recognition of foreign antigens are:",
+    "options": [
+      "Leukocytes",
+      "Lymphocytes",
+      "Monocytes",
+      "Reticulocytes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Lymphocytes interfere with disease by picking up specific antigens from organisms to alter their function during which stage of an immune response?",
+    "options": [
+      "Effector",
+      "Recognition",
+      "Proliferation",
+      "Response"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During the proliferation stage:",
+    "options": [
+      "Antibody-producing plasma cells are produced",
+      "Lymph nodes enlarge",
+      "Lymphocytes rapidly increase",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Immunodeficiency disorders are caused by defects or deficiencies in:",
+    "options": [
+      "The complement system",
+      "B and T lymphocytes",
+      "Phagocytic cells",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The cardinal symptoms of immunodeficiency are:",
+    "options": [
+      "Chronic diarrhea",
+      "Chronic or recurrent severe infections",
+      "Poor response to treatment of infections",
+      "Inclusive of all the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The nitroblue tetrazolium reductase (NTR) test is used to diagnose immunodeficiency disorders related to:",
+    "options": [
+      "Complement",
+      "T lymphocytes",
+      "B lymphocytes",
+      "Phagocytic cells"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "More than 50% of individuals with which disease develop pernicious anemia?",
+    "options": [
+      "Bruton disease",
+      "DiGeorge syndrome",
+      "Common variable immunodeficiency (CVID)",
+      "Nezelof syndrome"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The most frequent presenting sign in patients with DiGeorge syndrome is:",
+    "options": [
+      "Chronic diarrhea",
+      "Neutropenia",
+      "Hypocalcemia",
+      "Pernicious anemia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The primary cause of death for individuals with ataxia-telangiectasia is:",
+    "options": [
+      "Acute renal failure",
+      "Neurologic dysfunction",
+      "Chronic lung disease",
+      "Overwhelming infection"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The most common secondary immunodeficiency disorder is:",
+    "options": [
+      "AIDS",
+      "DAF",
+      "COVID",
+      "SCID"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The recommended dose of intravenous gamma globulin for a 60-kg man, given monthly, is:",
+    "options": [
+      "15 g",
+      "30 g",
+      "45 g",
+      "60 g"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The most common infection in persons with AIDS (80% occurrence) is:",
+    "options": [
+      "Cytomegalovirus",
+      "Legionnaire's disease",
+      "Mycobacterium tuberculosis",
+      "Pneumocystis pneumonia"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The most debilitating gastrointestinal condition found in up to 90% of all AIDS patients is:",
+    "options": [
+      "Anorexia",
+      "Chronic diarrhea",
+      "Nausea",
+      "Vomiting"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The minimum number of daily calories recommended for a 70-kg individual with AIDS-related 'wasting syndrome' is:",
+    "options": [
+      "1,500 calories",
+      "2,000 calories",
+      "2,800 calories",
+      "4,000 calories"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Patients who are sensitive to ragweed should be advised that weed pollen begins to appear in:",
+    "options": [
+      "Early spring",
+      "Early fall",
+      "Summer",
+      "Midwinter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A main side effect of antihistamines that requires accurate patient education is:",
+    "options": [
+      "Dryness of the mouth",
+      "Palpitations",
+      "Anorexia",
+      "Sedation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "An area of nursing concern when administering a sympathomimetic drug is the drug's ability to:",
+    "options": [
+      "Cause bronchodilation",
+      "Dilate the muscular vasculature",
+      "Constrict integumentary smooth muscle",
+      "Do all of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Injected allergens are used for hyposensitization and may produce harmful systemic reactions. Which medication should be on hand in case of an adverse reaction?",
+    "options": [
+      "Dramamine",
+      "Epinephrine",
+      "Phenergan hydrochloride",
+      "Pyribenzamine"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A diagnosis of 'wasting syndrome' can be initially made when involuntary weight loss exceeds what percentage of baseline body weight?",
+    "options": [
+      "20%",
+      "10%",
+      "15%",
+      "25%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The minimum number of daily calories recommended for a 70-kg individual with AIDS-related 'wasting syndrome' is:",
+    "options": [
+      "1,500 calories",
+      "2,000 calories",
+      "2,800 calories",
+      "4,000 calories"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The most common malignancy seen with HIV infection is:",
+    "options": [
+      "Carcinoma of skin",
+      "Kaposi sarcoma",
+      "Pancreatic cancer",
+      "Stomach cancer"
+    ],
+    "correctAnswer": 1
+  }
+]
