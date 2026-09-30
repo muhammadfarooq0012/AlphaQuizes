@@ -5,7 +5,10 @@
       "icon": "fa-user-nurse",
       "color": "#e74c3c",
       "folder": "AHN",
-      "chapters": ["Disorders of Reproductive System","Immunological Disorders"]
+      "chapters": [
+        "Disorders of Reproductive System",
+        "Immunological Disorders"
+      ]
     },
     {
       "name": "Pathology",
@@ -47,7 +50,7 @@
       "icon": "fa-bacteria",
       "color": "#f39c12",
       "folder": "Microbiology",
-      "chapters": []
+      "chapters": ["Chapter 01 & Chapter 02"]
     },
     {
       "name": "HA",

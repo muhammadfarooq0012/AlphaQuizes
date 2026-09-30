@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A microorganism contains DNA but lacks a nuclear membrane and mitochondria. Which classification best fits it?",
+    "options": [
+      "Eukaryotic cell",
+      "Prokaryotic cell",
+      "Virus",
+      "Protozoan"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A laboratory identifies an organism with 70S ribosomes, a single chromosome, and no nuclear membrane. Which additional feature would most strongly support that it is a bacterium?",
+    "options": [
+      "Presence of peptidoglycan in the cell wall",
+      "Presence of 80S ribosomes",
+      "Presence of mitochondria",
+      "Presence of a true nucleus"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A bacterial species stains purple after Gram staining. Which structural feature most likely explains this result?",
+    "options": [
+      "Absence of a cell wall",
+      "Large amount of lipopolysaccharide",
+      "Thick peptidoglycan layer",
+      "Presence of an outer lipid membrane only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which structure is characteristic of Gram-negative bacteria but not Gram-positive bacteria?",
+    "options": [
+      "Cytoplasmic membrane",
+      "Ribosomes",
+      "Peptidoglycan",
+      "Outer membrane containing lipopolysaccharide"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient develops fever after exposure to components released from disrupted Gram-negative bacteria. Which bacterial structure is most closely associated with this effect?",
+    "options": [
+      "Lipid A of lipopolysaccharide",
+      "Teichoic acid",
+      "Capsule",
+      "Flagellin"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which component contributes significantly to the rigidity of the bacterial cell wall?",
+    "options": [
+      "Cholesterol",
+      "Peptidoglycan",
+      "Glycogen",
+      "DNA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A drug interferes with formation of cross-links between peptide chains in the bacterial cell wall. Which structure is directly affected?",
+    "options": [
+      "Capsule",
+      "Ribosome",
+      "Peptidoglycan",
+      "Plasma membrane"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A bacterium loses its cell wall but remains in an isotonic environment. Which function of the normal cell wall has primarily been lost?",
+    "options": [
+      "Protein synthesis",
+      "DNA replication",
+      "ATP generation",
+      "Protection from osmotic pressure"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which bacterial structure is most directly involved in attachment to specific receptors on host cells?",
+    "options": [
+      "Pili",
+      "Nucleoid",
+      "Ribosome",
+      "Mesosome"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A bacterium can move toward nutrients in its environment. Which structure is mainly responsible for this behavior?",
+    "options": [
+      "Capsule",
+      "Flagella",
+      "Plasmid",
+      "Ribosome"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A mutation prevents a bacterium from producing its capsule. Which consequence is most likely according to the chapter?",
+    "options": [
+      "It will lose all ribosomes",
+      "It can no longer synthesize DNA",
+      "It may become more susceptible to phagocytosis",
+      "It will become Gram-negative"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why can a capsule increase bacterial virulence?",
+    "options": [
+      "It performs protein synthesis",
+      "It directly produces ATP",
+      "It forms the bacterial chromosome",
+      "It can interfere with phagocytosis"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which structure can carry genes for antibiotic resistance and may be transferred between bacteria?",
+    "options": [
+      "Plasmid",
+      "Capsule",
+      "Peptidoglycan",
+      "Ribosome"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A small circular piece of DNA carries resistance genes independently of the bacterial chromosome. This is most likely a:",
+    "options": [
+      "Nucleoid",
+      "Plasmid",
+      "Spore coat",
+      "Glycocalyx"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement about bacterial spores is most accurate?",
+    "options": [
+      "They are the main method of bacterial reproduction",
+      "They contain no bacterial DNA",
+      "They are highly resistant survival structures",
+      "They are easily destroyed by boiling at 100°C"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A bacterium forms a dormant structure that survives heat, drying, and many chemicals. Which structure has formed?",
+    "options": [
+      "Capsule",
+      "Pilus",
+      "Flagellum",
+      "Spore"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which statement best distinguishes sterilization from disinfection?",
+    "options": [
+      "Sterilization destroys all forms of microbial life, including spores",
+      "Disinfection always kills spores",
+      "Sterilization is used only on skin",
+      "Disinfection removes every microorganism from an object"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A hospital worker treats an instrument with a process that kills vegetative bacteria but may not destroy spores. This process is best described as:",
+    "options": [
+      "Sterilization",
+      "Disinfection",
+      "Filtration",
+      "Pasteurization only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following would be the most appropriate method for sterilizing a heat-stable surgical instrument?",
+    "options": [
+      "70% ethanol",
+      "Chlorhexidine",
+      "Autoclaving",
+      "Pasteurization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why does an autoclave achieve better sterilization than ordinary boiling?",
+    "options": [
+      "It uses ultraviolet radiation",
+      "It removes microorganisms by filtration",
+      "It uses only dry heat",
+      "Increased pressure allows steam to reach a higher temperature"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which set of conditions corresponds to commonly used autoclave sterilization?",
+    "options": [
+      "121°C under pressure for about 15 minutes",
+      "62°C for 30 minutes",
+      "100°C for 1 minute",
+      "180°C for 5 minutes"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A solution contains heat-sensitive components that would be damaged by autoclaving. Which sterilization method is most appropriate?",
+    "options": [
+      "Boiling",
+      "Filtration",
+      "Pasteurization",
+      "Dry heat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why is filtration particularly useful for certain intravenous solutions?",
+    "options": [
+      "It chemically destroys nucleic acids",
+      "It produces spores",
+      "It removes microorganisms without exposing the solution to damaging heat",
+      "It converts bacteria into protoplasts"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement about 70% ethanol is correct?",
+    "options": [
+      "It is more effective for skin antisepsis than absolute ethanol",
+      "It reliably destroys bacterial spores",
+      "It is primarily used to sterilize surgical instruments",
+      "It works only by damaging bacterial DNA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why is 70% ethanol generally more effective than 100% ethanol as an antiseptic?",
+    "options": [
+      "Water contributes to its antimicrobial action",
+      "Absolute ethanol cannot enter bacterial cells at all",
+      "70% ethanol forms bacterial spores",
+      "Water completely prevents protein denaturation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Before venipuncture, which agent is commonly used to disinfect the skin according to the chapter?",
+    "options": [
+      "Autoclaved steam",
+      "70% ethanol",
+      "X-rays",
+      "Formaldehyde gas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A disinfectant works mainly by oxidizing sulfhydryl-containing enzymes and also binds to tyrosine residues in proteins. Which agent best matches this mechanism?",
+    "options": [
+      "Ethanol",
+      "Benzalkonium chloride",
+      "Iodine",
+      "Filtration"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which agent is particularly useful for sterilizing heat-sensitive medical equipment such as certain plastics and respiratory therapy equipment?",
+    "options": [
+      "Soap",
+      "Boiling water",
+      "Ultraviolet light only",
+      "Ethylene oxide"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Ultraviolet light primarily damages microorganisms by causing:",
+    "options": [
+      "Thymine dimers in DNA",
+      "Peptidoglycan cross-linking",
+      "Capsule production",
+      "Ribosomal synthesis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A hospital wants to reduce airborne microorganisms in an operating room when it is not in use. Which method described in the chapter is suitable?",
+    "options": [
+      "70% ethanol sprayed into the air",
+      "Ultraviolet light",
+      "Autoclaving the room",
+      "Filtration of surgical instruments"
+    ],
+    "correctAnswer": 1
+  }
+]
