@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What term is used to describe the new and abnormal growth of cells characterized by unceasing proliferation?",
+    "options": [
+      "Hyperplasia",
+      "Neoplasia",
+      "Dysplasia",
+      "Metaplasia"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 50-year-old female patient is diagnosed with breast cancer. Her physician wants to monitor her treatment response and potential recurrence. Which tumor marker is most commonly associated with breast cancer and would be appropriate for this case?",
+    "options": [
+      "CA 125",
+      "CA 19-9",
+      "CA 27-29",
+      "AFP"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The excess of the stromal component in a tumor, leading to a scirrhous tumor, is known as:",
+    "options": [
+      "Hyperplasia",
+      "Desmoplasia",
+      "Neoplasia",
+      "Anaplasia"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Benign tumors are characterized by all of the following EXCEPT:",
+    "options": [
+      "They remain localized",
+      "They can spread to other sites",
+      "They are amenable to local surgical removal",
+      "The patient typically survives"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The degree to which neoplastic parenchymal cells resemble their normal parent cells is called:",
+    "options": [
+      "Anaplasia",
+      "Differentiation",
+      "Metaplasia",
+      "Hyperplasia"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a benign epithelial neoplasm that forms glandular patterns?",
+    "options": [
+      "Papilloma",
+      "Adenoma",
+      "Polyp",
+      "Cystadenoma"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A benign tumor producing visible projections above a mucosal surface is known as:",
+    "options": [
+      "Fibroma",
+      "Myxoma",
+      "Polyp",
+      "Osteoma"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Malignant tumors of epithelial cell origin are called:",
+    "options": [
+      "Sarcomas",
+      "Carcinomas",
+      "Myomas",
+      "Lymphomas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The preferred pathway of metastasis for carcinomas is through:",
+    "options": [
+      "Lymphatics",
+      "Blood vessels",
+      "Body cavities",
+      "Direct seeding"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A malignant tumor arising in striated muscles, usually in children, is called:",
+    "options": [
+      "Fibro-sarcoma",
+      "Chondrosarcoma",
+      "Rhabdomyosarcoma",
+      "Lipo-sarcoma"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why are teratomas most commonly found in ovaries?",
+    "options": [
+      "Due to type of cell involved",
+      "Due to pattern of cells",
+      "Due to size of cells",
+      "Due to shape of cells"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of malignant tumors?",
+    "options": [
+      "They invade and destroy adjacent structures",
+      "They can spread to distant sites",
+      "They are typically amenable to local surgical removal",
+      "They often result in the patient’s death"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Wilm’s tumor is an example of:",
+    "options": [
+      "A benign mixed tumor",
+      "A malignant mixed tumor",
+      "An embryonic tumor of infancy",
+      "A mature teratoma"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which organ is most suitable for metastasis?",
+    "options": [
+      "Spleen",
+      "Skeletal muscles",
+      "Heart",
+      "Liver"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is NOT a frequent site of metastasis?",
+    "options": [
+      "Spleen",
+      "Skeletal muscles",
+      "Heart",
+      "Liver"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following tumors is known to never metastasize?",
+    "options": [
+      "Breast cancer",
+      "Lung cancer",
+      "Colon cancer",
+      "Basal cell skin carcinoma"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Dysplasia in epithelial tissue is characterized by:",
+    "options": [
+      "Uniformity of individual cells",
+      "Lack of pleomorphism",
+      "Loss of architectural orientation",
+      "Well-differentiated cells"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is NOT a functional change in anaplasia?",
+    "options": [
+      "Loss of specialized functional activities",
+      "Production of ectopic hormones",
+      "Lack of keratin production in squamous cell carcinomas",
+      "Reduced hormone production"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What does the term “sentinel lymph node” refer to?",
+    "options": [
+      "The node with highest concentration of cancer cells",
+      "The node that is most resistant to cancer",
+      "The node that indicates benign tumor characteristics",
+      "The node that receives lymph flow first from a primary tumor"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Encapsulation is a feature of tumors EXCEPT:",
+    "options": [
+      "Leiomyoma of uterus",
+      "Lipomas",
+      "Adenomas",
+      "Nevi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The TNM system of cancer staging includes all of the following EXCEPT:",
+    "options": [
+      "The size of the primary tumor",
+      "Regional lymph node",
+      "The degree of anaplasia",
+      "Presence of metastasis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does N0 signify in the TNM staging system?",
+    "options": [
+      "No treatment necessary",
+      "No symptoms",
+      "No lymph node involvement",
+      "Some lymph node involvement"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of genetic instability in cancer cells?",
+    "options": [
+      "Polyploidy",
+      "Aneuploidy",
+      "Diploidy",
+      "Haploidy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What type of mutation is commonly seen within the unstable genome of cancer cells?",
+    "options": [
+      "Gene deletion",
+      "Gene duplication",
+      "Point mutations",
+      "Expanded mutations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Carcinoembryonic antigen is typically found in which types of cancer?",
+    "options": [
+      "Lung and breast cancer",
+      "Leukemia and lymphoma",
+      "Skin and liver cancer",
+      "Colon and pancreatic cancer"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which enzyme do cancer cells secrete to facilitate invasion and metastasis?",
+    "options": [
+      "Collagenase",
+      "Hyaluronidase",
+      "Lipase",
+      "Protease"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is NOT a hereditary cancer?",
+    "options": [
+      "Retinoblastoma",
+      "Wilm’s tumor",
+      "Leukemia",
+      "Neurofibromatosis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is a direct-acting chemical carcinogen?",
+    "options": [
+      "Alkylating agents",
+      "Polycyclic hydrocarbons",
+      "Benzo(a)pyrene",
+      "Tobacco smoke"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which nutrient is known to have a protective effect against certain types of cancer?",
+    "options": [
+      "Vitamin A & K",
+      "Vitamin E & C",
+      "Vitamin C & D",
+      "Vitamin B12"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Lymphatic spread is more typical of carcinomas, whereas which spread is favored by sarcomas?",
+    "options": [
+      "Seeding spread",
+      "Metastatic spread",
+      "Hematogenous spread",
+      "Lymphatic itself"
+    ],
+    "correctAnswer": 2
+  }
+]

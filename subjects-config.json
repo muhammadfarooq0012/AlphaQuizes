@@ -15,7 +15,7 @@
       "icon": "fa-microscope",
       "color": "#2ecc71",
       "folder": "Pathology",
-      "chapters": []
+      "chapters": ["chapter05"]
     },
     {
       "name": "Pharmacology",
