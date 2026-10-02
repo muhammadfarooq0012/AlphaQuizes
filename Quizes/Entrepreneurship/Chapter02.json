@@ -1,0 +1,302 @@
+[
+  {
+    "question": "An entrepreneur continues working on a business idea even after repeated failures and modifies the approach each time. Which quality is most clearly demonstrated?",
+    "options": [
+      "Creativity",
+      "Tenacity",
+      "Financial skill",
+      "Marketing skill"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which entrepreneurial quality is most directly related to adjusting business decisions when market conditions suddenly change?",
+    "options": [
+      "Adaptability",
+      "Hard work",
+      "Self-confidence",
+      "Passion"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An entrepreneur studies possible losses before investing in a new market. This best demonstrates:",
+    "options": [
+      "Blind risk-taking",
+      "Creativity",
+      "Leadership",
+      "Calculated risk-taking"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A business owner has an excellent product but fails to explain its value clearly to customers and employees. Which essential skill is most lacking?",
+    "options": [
+      "Financial skill",
+      "Leadership skill",
+      "Communication skill",
+      "Time management"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement best explains why passion is important to entrepreneurs?",
+    "options": [
+      "It eliminates all business risks",
+      "It helps maintain motivation and commitment during difficulties",
+      "It guarantees customers will buy the product",
+      "It replaces the need for planning"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An entrepreneur has limited time and several urgent business tasks. Which skill is most important for completing the tasks efficiently?",
+    "options": [
+      "Time management",
+      "Innovation",
+      "Risk-taking",
+      "Marketing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A manager inspires employees to work toward a common business goal. Which entrepreneurial ability is being demonstrated?",
+    "options": [
+      "Creativity",
+      "Decision-making",
+      "Financial management",
+      "Leadership"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which example from the chapter best demonstrates learning from failure and continuing toward success?",
+    "options": [
+      "Bill Gates developing widely used software",
+      "Elon Musk working with technology companies",
+      "Henry Ford learning from failed automobile companies before later succeeding",
+      "A company avoiding all risky decisions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which activity belongs most directly to the “exercise of business in entrepreneurship”?",
+    "options": [
+      "Controlling income and expenses",
+      "Studying only theoretical concepts",
+      "Avoiding interaction with customers",
+      "Ignoring business resources"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An entrepreneur first notices that students need an affordable transport service. According to the five-step entrepreneurial strategy, this represents:",
+    "options": [
+      "Prepare a business plan",
+      "Identify an opportunity",
+      "Implement the plan",
+      "Analyze the market"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "After identifying a business opportunity, what should an entrepreneur do next according to the chapter?",
+    "options": [
+      "Implement the plan immediately",
+      "Evaluate employees",
+      "Develop a business idea",
+      "Stop market research"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An entrepreneur studies customer preferences, competitors, and demand before launching a product. Which entrepreneurial strategy step is this?",
+    "options": [
+      "Identify an opportunity",
+      "Implement the plan",
+      "Prepare a business plan",
+      "Analyze the market"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which step logically comes after analyzing the market?",
+    "options": [
+      "Prepare a business plan",
+      "Identify an opportunity",
+      "Develop an idea",
+      "Ignore the findings"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A business owner launches a plan and then checks whether sales and customer response match expectations. Which step is being performed?",
+    "options": [
+      "Develop a business idea",
+      "Implement and evaluate the plan",
+      "Identify an opportunity",
+      "Organize resources only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which entrepreneurial ability is most directly involved when an entrepreneur chooses the best option among several alternatives?",
+    "options": [
+      "Creativity",
+      "Communication",
+      "Decision-making",
+      "Passion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A company is unable to expand because it cannot obtain enough money, equipment, or skilled workers. Which challenge is most directly involved?",
+    "options": [
+      "High competition",
+      "Changing customer needs",
+      "Market uncertainty",
+      "Lack of resources"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A business owner is unsure whether customer demand will increase or decrease next year. This situation best represents:",
+    "options": [
+      "Market uncertainty",
+      "Operational efficiency",
+      "Government support",
+      "Entrepreneurial passion"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which factor would most directly facilitate entrepreneurship by helping entrepreneurs obtain money to start or grow a business?",
+    "options": [
+      "Strong competition",
+      "Access to finance",
+      "Changing customer demand",
+      "Legal risk"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Good roads, reliable electricity, internet access, and proper facilities are examples of:",
+    "options": [
+      "Market risk",
+      "Strategic planning",
+      "Good infrastructure",
+      "Social factors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A government launches training programs and provides supportive business policies for new entrepreneurs. This is an example of:",
+    "options": [
+      "Government support",
+      "Market uncertainty",
+      "Operational risk",
+      "High competition"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement best defines creativity according to the chapter?",
+    "options": [
+      "Repeating existing ideas without changes",
+      "Avoiding unusual solutions",
+      "Copying competitors exactly",
+      "Developing new, useful, and original ideas"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "During the creative process, an entrepreneur gathers information and tries to understand a business problem. Which stage is this?",
+    "options": [
+      "Illumination",
+      "Preparation",
+      "Evaluation",
+      "Implementation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An entrepreneur temporarily steps away from a problem while allowing ideas to develop mentally. Which creative-process stage is represented?",
+    "options": [
+      "Incubation",
+      "Evaluation",
+      "Preparation",
+      "Implementation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A new solution suddenly comes to an entrepreneur after thinking about a problem for several days. This is called:",
+    "options": [
+      "Preparation",
+      "Implementation",
+      "Illumination",
+      "Evaluation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Before using a new business idea, the entrepreneur checks whether it is realistic, useful, and practical. Which creative-process stage is this?",
+    "options": [
+      "Incubation",
+      "Preparation",
+      "Illumination",
+      "Evaluation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In critical thinking, what should an entrepreneur do after collecting relevant information about a problem?",
+    "options": [
+      "Analyze the information",
+      "Immediately implement the first idea",
+      "Ignore alternatives",
+      "Avoid making decisions"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement best describes innovation?",
+    "options": [
+      "Avoiding changes in products and services",
+      "Introducing a new or improved product, service, process, or idea",
+      "Copying an existing product without modification",
+      "Focusing only on advertising"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A company changes its product after customers repeatedly request a new feature. Which source of innovation is most directly involved?",
+    "options": [
+      "Suppliers",
+      "Competitors",
+      "Customers",
+      "Government policies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A business loses money because a major computer system fails and customer data becomes inaccessible. Which type of business risk is this?",
+    "options": [
+      "Market risk",
+      "Financial risk only",
+      "Legal risk",
+      "Technology risk"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A company enters a new market only after comparing possible profits, potential losses, customer demand, and available resources. Why is this considered calculated risk-taking?",
+    "options": [
+      "The decision is made after considering possible benefits and losses",
+      "The entrepreneur ignores possible negative outcomes",
+      "The company takes risk without planning",
+      "The entrepreneur avoids all uncertainty"
+    ],
+    "correctAnswer": 0
+  }
+]
