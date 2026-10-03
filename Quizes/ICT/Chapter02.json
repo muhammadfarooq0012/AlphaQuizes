@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A search engine visits websites automatically, collects information, and stores it for later searching. Which type of search engine mainly performs this process?",
+    "options": [
+      "Human-powered directory",
+      "Crawler-based search engine",
+      "Meta search engine",
+      "Specialized search engine"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A user wants results from several different search engines at the same time without each result source being searched manually. Which type is most suitable?",
+    "options": [
+      "Hybrid search engine",
+      "Specialized search engine",
+      "Meta search engine",
+      "Human-powered directory"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Google Scholar and PubMed are best classified as:",
+    "options": [
+      "Specialized search engines",
+      "Human-powered directories",
+      "Meta search engines",
+      "Communication tools"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which step of search-engine working organizes collected web information into a searchable database?",
+    "options": [
+      "Crawling",
+      "Ranking",
+      "Displaying",
+      "Indexing"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A search engine has already found relevant pages but must decide which results should appear first. Which stage performs this task?",
+    "options": [
+      "Searching",
+      "Ranking",
+      "Crawling",
+      "Indexing"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sequence correctly represents the working of a search engine according to the chapter?",
+    "options": [
+      "Crawling → Indexing → Searching → Ranking → Displaying",
+      "Searching → Crawling → Ranking → Indexing → Displaying",
+      "Indexing → Crawling → Displaying → Searching → Ranking",
+      "Ranking → Searching → Crawling → Displaying → Indexing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A manager needs to send a short official message to employees about a change in office timings. Which communication tool is most appropriate?",
+    "options": [
+      "Report",
+      "Letter",
+      "Memo",
+      "Social-media post"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which behavior violates formal communication etiquette?",
+    "options": [
+      "Using correct grammar",
+      "Responding on time",
+      "Respecting others' opinions",
+      "Using slang and unnecessary jokes"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which feature most clearly distinguishes Microsoft Outlook from a basic email-only service in the notes?",
+    "options": [
+      "It cannot send messages",
+      "It can manage calendars, contacts, and tasks in addition to email",
+      "It is used only for social networking",
+      "It does not support appointments"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A student wants to create a formal report containing formatted text, pictures, and tables. Which application is most appropriate?",
+    "options": [
+      "MS Word",
+      "MS Excel",
+      "MS PowerPoint",
+      "Google Meet"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In MS Word, which component is mainly used to set margins, indents, and tab positions?",
+    "options": [
+      "Status Bar",
+      "Ribbon",
+      "Ruler",
+      "Title Bar"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A user wants to quickly access Save, Undo, and Redo in MS Word. Which component should be used?",
+    "options": [
+      "Document Area",
+      "File Tab",
+      "Status Bar",
+      "Quick Access Toolbar"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In Excel, which component displays the address or name of the currently selected cell?",
+    "options": [
+      "Name Box",
+      "Formula Bar",
+      "Status Bar",
+      "Sheet Tab"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement correctly distinguishes a formula from a function in Excel?",
+    "options": [
+      "A function is always written manually",
+      "A formula is created by the user, while a function is predefined in Excel",
+      "A formula cannot contain cell references",
+      "A function cannot perform calculations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is an Excel function rather than a manually written formula?",
+    "options": [
+      "=A1+B1",
+      "=A1*B1",
+      "=SUM(A1:B1)",
+      "=A1-B1"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A teacher wants to calculate students' marks, sort their results, and create a graph. Which software best fits all three tasks?",
+    "options": [
+      "MS Word",
+      "MS PowerPoint",
+      "OneNote",
+      "MS Excel"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which PowerPoint component displays small previews of all slides and helps users move between them?",
+    "options": [
+      "Slides Pane",
+      "Notes Pane",
+      "Status Bar",
+      "Ribbon"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A presenter wants to write reminders that are useful during a presentation but are not part of the main slide content. Which area should be used?",
+    "options": [
+      "Slide Area",
+      "Notes Pane",
+      "Slides Pane",
+      "Title Bar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement best describes Google Workspace according to the notes?",
+    "options": [
+      "A hardware platform for storing local files",
+      "A search engine developed by Google",
+      "A cloud-based productivity platform supporting online creation and real-time collaboration",
+      "A desktop operating system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which pair performs the most similar general function?",
+    "options": [
+      "MS Excel and Google Docs",
+      "MS PowerPoint and Google Sheets",
+      "MS Word and Google Slides",
+      "MS Word and Google Docs"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A company keeps sensitive financial data on its own secured cloud servers but stores ordinary documents on Google Drive. Which cloud-storage model does this represent?",
+    "options": [
+      "Hybrid cloud",
+      "Public cloud",
+      "Private cloud only",
+      "Local storage"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which characteristic best describes a private cloud?",
+    "options": [
+      "It is always free for everyone",
+      "It is dedicated to one organization with greater security and control",
+      "It must use Google Drive",
+      "It cannot store sensitive information"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which feature of Google Drive most directly supports teamwork?",
+    "options": [
+      "It can only store files locally",
+      "It prevents files from being shared",
+      "Multiple users can work on files together",
+      "It works only with images"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which cloud service is specifically integrated with Microsoft Word, Excel, and PowerPoint according to the chapter?",
+    "options": [
+      "Dropbox",
+      "Google Drive",
+      "Evernote",
+      "OneDrive"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A student wants an application that organizes information using notebooks, sections, and pages. Which application best matches this structure?",
+    "options": [
+      "OneNote",
+      "Evernote",
+      "Google Drive",
+      "Outlook"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which feature is more strongly associated with Evernote in the chapter?",
+    "options": [
+      "Integration with Microsoft 365 meetings",
+      "Strong tagging and search features",
+      "Slide-based presentations",
+      "Spreadsheet formulas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is the strongest reason video conferencing can reduce organizational costs?",
+    "options": [
+      "It eliminates the need for the internet",
+      "It replaces all written communication",
+      "It can reduce travel time and travel expenses",
+      "It prevents remote teamwork"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A company already relies heavily on Word, Excel, PowerPoint, and OneDrive and wants an integrated platform for meetings, messaging, and teamwork. Which option best matches the chapter?",
+    "options": [
+      "Google Meet",
+      "Zoom",
+      "Instagram",
+      "Microsoft Teams"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A professional wants to build an online career profile, connect with employers, and search for jobs. Which platform is most suitable?",
+    "options": [
+      "LinkedIn",
+      "Instagram",
+      "Facebook",
+      "Google Slides"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A small business mainly wants to post visual content, short Reels, and product promotions while communicating with customers through direct messages. Which platform most closely fits these requirements?",
+    "options": [
+      "Outlook",
+      "Instagram",
+      "OneNote",
+      "Google Scholar"
+    ],
+    "correctAnswer": 1
+  }
+]
