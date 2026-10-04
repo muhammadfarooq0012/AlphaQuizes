@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which statement best explains the purpose of rights in society?",
+    "options": [
+      "They allow people to ignore laws",
+      "They help people live with freedom, equality, dignity, and security",
+      "They apply only to political leaders",
+      "They remove all civic responsibilities"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person is prevented from expressing an opinion despite acting within the law. Which type of right is most directly affected?",
+    "options": [
+      "Civil right",
+      "Economic right",
+      "Cultural right",
+      "Social right"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A citizen wants to stand as a candidate in an election. Which category of rights applies most directly?",
+    "options": [
+      "Social rights",
+      "Civil rights",
+      "Political rights",
+      "Cultural rights"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A worker receives unfairly low payment despite performing the same work as others. Which right is most directly involved?",
+    "options": [
+      "Right to housing",
+      "Right to vote",
+      "Right to religion",
+      "Right to fair wages"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which right allows a person to legally choose a business or occupation?",
+    "options": [
+      "Right to social security",
+      "Right to choose a profession",
+      "Right to assembly",
+      "Right to education"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person receives financial support during a difficult period because they cannot support themselves. Which social right is being applied?",
+    "options": [
+      "Right to social security",
+      "Right to freedom of speech",
+      "Right to contest elections",
+      "Right to property"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which situation best represents a cultural right?",
+    "options": [
+      "Voting for a representative",
+      "Receiving fair wages",
+      "Preserving one's language and traditions",
+      "Receiving medical treatment"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Fundamental rights are different from ordinary privileges mainly because they are:",
+    "options": [
+      "Given only to government employees",
+      "Optional for citizens",
+      "Limited only to economic matters",
+      "Guaranteed by the Constitution"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "According to Article 8, what happens to a law that is inconsistent with fundamental rights?",
+    "options": [
+      "It becomes invalid",
+      "It automatically becomes permanent",
+      "It applies only to government officers",
+      "It replaces the Constitution"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A person is deprived of personal freedom without lawful justification. Which constitutional protection is most directly involved?",
+    "options": [
+      "Article 14",
+      "Article 9",
+      "Article 25A",
+      "Article 17"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person is arrested but is not told the reason and is not brought before a magistrate within 24 hours. Which Article is most directly violated?",
+    "options": [
+      "Article 13",
+      "Article 19",
+      "Article 10",
+      "Article 28"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which constitutional provision guarantees a fair and impartial trial?",
+    "options": [
+      "Article 10A",
+      "Article 11",
+      "Article 15",
+      "Article 19A"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A factory forces workers to work against their will. Which constitutional protection is most directly relevant?",
+    "options": [
+      "Article 12",
+      "Article 17",
+      "Article 18",
+      "Article 11"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A person is punished today for an act that was not illegal when it was committed. Which constitutional principle is violated?",
+    "options": [
+      "Protection against double punishment",
+      "Protection against retrospective punishment",
+      "Freedom of association",
+      "Equality in services"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person has already been punished for an offence but is punished again for the same offence. Which Article is most directly involved?",
+    "options": [
+      "Article 13",
+      "Article 14",
+      "Article 16",
+      "Article 20"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which constitutional right is most directly concerned with protecting personal dignity and privacy?",
+    "options": [
+      "Article 9",
+      "Article 18",
+      "Article 14",
+      "Article 27"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A peaceful group of citizens gathers to protest a public issue. Which constitutional freedom supports this activity?",
+    "options": [
+      "Freedom of trade",
+      "Freedom of assembly",
+      "Right to education",
+      "Right to property"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A citizen joins a lawful organization and political party. Which Article most directly supports this right?",
+    "options": [
+      "Article 25",
+      "Article 16",
+      "Article 19",
+      "Article 17"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A person legally starts a small business of their own choice. Which constitutional freedom is most directly relevant?",
+    "options": [
+      "Freedom of trade and profession",
+      "Freedom of movement",
+      "Right to information",
+      "Freedom of religion"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A journalist asks a public department for information about government activities. Which right applies most directly?",
+    "options": [
+      "Freedom of religion",
+      "Right to property",
+      "Right to information",
+      "Right to education"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A student is forced to receive religious instruction belonging to another religion. Which constitutional safeguard is most directly violated?",
+    "options": [
+      "Article 21",
+      "Article 22",
+      "Article 25A",
+      "Article 28"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which Article requires the State to provide free and compulsory education to children aged 5–16 years?",
+    "options": [
+      "Article 25A",
+      "Article 19A",
+      "Article 23",
+      "Article 27"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A citizen is denied entry to a public place purely because of religion or caste. Which constitutional protection is most directly relevant?",
+    "options": [
+      "Article 18",
+      "Article 20",
+      "Article 28",
+      "Article 26"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which Article supports the right to preserve and promote culture, language, and traditions?",
+    "options": [
+      "Article 17",
+      "Article 28",
+      "Article 14",
+      "Article 10A"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A citizen pays taxes honestly and protects public property. These actions are examples of:",
+    "options": [
+      "Fundamental rights",
+      "Political privileges",
+      "Civic responsibilities",
+      "Cultural freedoms"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A leader accepts responsibility for a poor decision and explains it publicly. Which principle of civic engagement is most clearly demonstrated?",
+    "options": [
+      "Accountability",
+      "Non-violence",
+      "Civility",
+      "Peaceful dialogue"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Two groups disagree strongly but decide to discuss the issue calmly and listen to each other instead of fighting. Which principle is best represented?",
+    "options": [
+      "Ethics",
+      "Accountability",
+      "Civility only",
+      "Peaceful dialogue"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Citizens protest without damaging property or using force. Which principle of civic engagement is mainly being followed?",
+    "options": [
+      "Accountability",
+      "Non-violence",
+      "Loyalty",
+      "Integrity"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person disagrees with another citizen but still speaks politely and respects their opinion. Which principle is most clearly demonstrated?",
+    "options": [
+      "Civility",
+      "Fairness",
+      "Responsibility",
+      "Loyalty"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A person refuses to cheat even when nobody is watching. Which ethical value is being demonstrated most directly?",
+    "options": [
+      "Loyalty",
+      "Kindness",
+      "Integrity",
+      "Accountability"
+    ],
+    "correctAnswer": 2
+  }
+]
