@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which characteristic most clearly distinguishes a successful entrepreneur from an unsuccessful entrepreneur according to the chapter?",
+    "options": [
+      "Avoiding all risks",
+      "Taking calculated risks",
+      "Depending only on luck",
+      "Resisting new ideas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An entrepreneur launches a business idea that customers find useful, needed, and likely to remain valuable for years. Which quality of opportunity is most directly reflected by long-term potential?",
+    "options": [
+      "Attractive",
+      "Timely",
+      "Durable",
+      "Value-creating"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement best defines opportunity recognition?",
+    "options": [
+      "Copying an existing business without analysis",
+      "Identifying a business idea or market need that can become a successful business",
+      "Creating advertisements for a product",
+      "Selecting employees for a company"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A business owner notices that customers need faster home delivery, but local businesses do not provide it. This difference is called:",
+    "options": [
+      "Market segmentation",
+      "Brand equity",
+      "Opportunity gap",
+      "Sales prospecting"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which is the first step in opportunity recognition according to the chapter?",
+    "options": [
+      "Develop the idea",
+      "Evaluate ideas",
+      "Observe the market",
+      "Select the opportunity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An entrepreneur generates several possible solutions and then checks which one is useful and profitable. Which step is being performed?",
+    "options": [
+      "Evaluate ideas",
+      "Develop the idea",
+      "Observe the market",
+      "Select the opportunity"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A business idea appears attractive, but the entrepreneur has insufficient money, skills, and equipment to explore it. Which challenge is most relevant?",
+    "options": [
+      "Strong competition",
+      "Market uncertainty",
+      "Limited resources",
+      "Changing customer needs"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which venture is most likely designed for rapid growth and commonly uses technology?",
+    "options": [
+      "Small business venture",
+      "Scalable startup",
+      "Social venture",
+      "Large company venture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A business is created mainly to solve an environmental problem rather than only to maximize profit. It is best classified as a:",
+    "options": [
+      "Scalable startup",
+      "Large company venture",
+      "Social venture",
+      "Small business venture"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main difference between an idea and an opportunity?",
+    "options": [
+      "An idea always has proven demand",
+      "An opportunity has real market potential",
+      "An idea must always be profitable",
+      "An opportunity is based only on imagination"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person thinks about creating a food-delivery app but has not yet confirmed customer demand. This is best described as a/an:",
+    "options": [
+      "Opportunity",
+      "Market gap",
+      "Idea",
+      "Scalable venture"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which term refers to a limited period during which market conditions are favorable for launching a business or product?",
+    "options": [
+      "Opportunity gap",
+      "Window of opportunity",
+      "Market segment",
+      "Brand position"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Many competitors enter a market and the original opportunity becomes less attractive. Which stage of the window of opportunity is this?",
+    "options": [
+      "Opening",
+      "Development",
+      "Opportunity period",
+      "Closing"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "An entrepreneur studies changes in technology, society, and markets to discover possible businesses. Which method of identifying opportunities is being used?",
+    "options": [
+      "Personal experience",
+      "Observing trends",
+      "Networking",
+      "Focus grouping"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which factor is most directly examined when an entrepreneur asks, “How many potential customers are available?”",
+    "options": [
+      "Market size",
+      "Resources",
+      "Competition",
+      "Risk"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which technique encourages participants to produce many ideas freely without criticizing them initially?",
+    "options": [
+      "SWOT analysis",
+      "SCAMPER",
+      "Brainstorming",
+      "Market segmentation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A team organizes ideas around one central topic and connects related thoughts using branches. Which technique is this?",
+    "options": [
+      "Focus group",
+      "Mind mapping",
+      "Forced focus",
+      "SWOT analysis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In SCAMPER, replacing one feature or material with another is called:",
+    "options": [
+      "Adapt",
+      "Modify",
+      "Substitute",
+      "Eliminate"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A company removes an unnecessary product feature to make the product simpler. Which SCAMPER element is being used?",
+    "options": [
+      "Eliminate",
+      "Reverse",
+      "Combine",
+      "Put to another use"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A company studies its internal advantages, internal weaknesses, market possibilities, and external dangers. Which technique is being used?",
+    "options": [
+      "Brainstorming",
+      "Mind mapping",
+      "SCAMPER",
+      "SWOT analysis"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A small group of potential customers discusses a new product and provides opinions about what they like and dislike. This is called a:",
+    "options": [
+      "Focus group",
+      "Market segment",
+      "Sales team",
+      "Brainstorming group"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Dividing a large market into smaller groups of customers with similar needs or characteristics is known as:",
+    "options": [
+      "Brand positioning",
+      "Market segmentation",
+      "Product promotion",
+      "Opportunity evaluation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A company sells winter jackets mainly in colder regions. Which type of market segmentation is being used?",
+    "options": [
+      "Behavioral",
+      "Psychographic",
+      "Geographic",
+      "Demographic"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A company targets fitness enthusiasts with sports products because of their interests and lifestyle. Which segmentation type applies?",
+    "options": [
+      "Psychographic",
+      "Geographic",
+      "Demographic",
+      "Behavioral"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A store gives special discounts to customers who frequently purchase online. Which type of segmentation is this?",
+    "options": [
+      "Demographic",
+      "Geographic",
+      "Psychographic",
+      "Behavioral"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Customers repeatedly buy the same brand because they prefer and trust it. Which component of brand equity is being demonstrated?",
+    "options": [
+      "Brand awareness",
+      "Brand loyalty",
+      "Brand association",
+      "Perceived quality"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In the branding process, deciding how customers should view the brand in the market is called:",
+    "options": [
+      "Defining the brand",
+      "Creating brand identity",
+      "Positioning the brand",
+      "Promoting the brand"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which element of the marketing mix answers the question, “Where and how will customers obtain the product?”",
+    "options": [
+      "Promotion",
+      "Product",
+      "Price",
+      "Place"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which statement best describes entrepreneurial marketing compared with traditional marketing?",
+    "options": [
+      "It relies only on large budgets",
+      "It focuses more on new opportunities, innovation, and flexible approaches",
+      "It avoids customer needs",
+      "It uses only traditional advertising"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A salesperson has explained a product, answered the customer's concerns, and now asks the customer to purchase it. Which stage of the sales process is this?",
+    "options": [
+      "Presentation",
+      "Follow-up",
+      "Closing",
+      "Pre-approach"
+    ],
+    "correctAnswer": 2
+  }
+]

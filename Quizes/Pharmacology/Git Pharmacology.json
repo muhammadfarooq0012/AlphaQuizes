@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A patient with peptic ulcer disease is found to have H. pylori infection. Which treatment approach is most appropriate?",
+    "options": [
+      "H2-receptor antagonist alone",
+      "Antacid alone",
+      "PPI combined with appropriate antimicrobial agents",
+      "Sucralfate alone"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why is treatment with a single antimicrobial drug generally avoided in H. pylori infection?",
+    "options": [
+      "It increases gastric acid secretion",
+      "It is much less effective and promotes antimicrobial resistance",
+      "It causes immediate gastric ulceration",
+      "It completely prevents PPI action"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which combination represents bismuth quadruple therapy for H. pylori?",
+    "options": [
+      "PPI + amoxicillin + clarithromycin",
+      "PPI + metronidazole + amoxicillin",
+      "Bismuth subsalicylate + metronidazole + tetracycline + PPI",
+      "Bismuth subsalicylate + amoxicillin + clarithromycin + H2 blocker"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient asks why antibiotics are not prescribed for uncomplicated GERD. Which explanation is most accurate?",
+    "options": [
+      "GERD is caused mainly by excessive pepsin",
+      "GERD is not associated with H. pylori infection",
+      "Antibiotics increase gastric mucus secretion",
+      "Antibiotics activate the proton pump"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient taking an H2-receptor antagonist experiences reduced gastric acid secretion. What is the drug directly blocking?",
+    "options": [
+      "H1 receptors",
+      "H2 receptors",
+      "H+/K+-ATPase directly",
+      "Gastrin receptors"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which patient is most likely to experience an important drug interaction from cimetidine?",
+    "options": [
+      "Patient taking warfarin",
+      "Patient taking calcium citrate",
+      "Patient taking magnesium hydroxide",
+      "Patient taking lactulose"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient taking cimetidine develops gynecomastia. Which property of the drug best explains this effect?",
+    "options": [
+      "Strong anticholinergic activity",
+      "Antiandrogenic effect",
+      "Prostaglandin inhibition",
+      "Opioid receptor stimulation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with severe GERD needs the strongest suppression of gastric acid secretion. Which drug class is preferred?",
+    "options": [
+      "Antacids",
+      "H2-receptor antagonists",
+      "Proton pump inhibitors",
+      "Adsorbents"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why do PPIs have a prolonged effect despite having a plasma half-life of only a few hours?",
+    "options": [
+      "They accumulate permanently in the stomach",
+      "They form a stable covalent bond with the proton pump",
+      "They continuously stimulate gastrin receptors",
+      "They remain trapped in the intestinal lumen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient is prescribed omeprazole for maximum acid suppression. When should it generally be taken?",
+    "options": [
+      "Immediately after dinner",
+      "30–60 minutes before breakfast or the largest meal",
+      "Only when heartburn occurs",
+      "At bedtime after an antacid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient taking a PPI also takes clopidogrel. Which concern is particularly associated with omeprazole and esomeprazole?",
+    "options": [
+      "Increased conversion of clopidogrel to its active form",
+      "Decreased effectiveness of clopidogrel",
+      "Increased absorption of clopidogrel",
+      "Complete inhibition of platelet production"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Long-term acid suppression may decrease vitamin B12 absorption primarily because:",
+    "options": [
+      "Gastric acid is needed for B12 absorption in association with intrinsic factor",
+      "PPIs destroy intrinsic factor directly",
+      "Vitamin B12 requires an alkaline stomach",
+      "H2 blockers destroy intestinal bacteria"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient taking long-term acid-suppressive therapy needs calcium supplementation. Which form is preferred?",
+    "options": [
+      "Calcium carbonate",
+      "Calcium citrate",
+      "Calcium phosphate only",
+      "Calcium chloride only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which adverse-effect combination correctly matches the antacid?",
+    "options": [
+      "Aluminum hydroxide → diarrhea",
+      "Magnesium hydroxide → constipation",
+      "Aluminum hydroxide → constipation",
+      "Sodium bicarbonate → severe hypoglycemia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with renal impairment uses magnesium-containing antacids repeatedly. Why is this concerning?",
+    "options": [
+      "Magnesium may accumulate because cation absorption/excretion can become problematic",
+      "Magnesium permanently blocks the proton pump",
+      "Magnesium causes H. pylori resistance",
+      "Magnesium prevents mucus secretion"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A pregnant patient with an NSAID-induced ulcer asks about misoprostol. Why should misoprostol be avoided?",
+    "options": [
+      "It causes severe gastric acid secretion",
+      "It can stimulate uterine contractions and cause miscarriage",
+      "It permanently inhibits ovulation",
+      "It causes H. pylori infection"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which finding most strongly explains why misoprostol is useful for protecting gastric mucosa?",
+    "options": [
+      "It increases acid secretion and decreases mucus",
+      "It inhibits acid secretion and stimulates mucus and bicarbonate secretion",
+      "It blocks dopamine receptors",
+      "It directly neutralizes gastric acid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient is prescribed sucralfate for a duodenal ulcer. How does it primarily protect the ulcer?",
+    "options": [
+      "It kills H. pylori directly",
+      "It forms a protective barrier over the ulcer",
+      "It permanently blocks H+/K+-ATPase",
+      "It stimulates intestinal peristalsis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why should sucralfate not be administered together with PPIs, H2 blockers, or antacids?",
+    "options": [
+      "Sucralfate requires an acidic pH for activation",
+      "These drugs cause sucralfate toxicity",
+      "Sucralfate increases their renal excretion",
+      "They all directly destroy sucralfate in the bloodstream"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A chemotherapy patient develops vomiting because intestinal cell damage causes serotonin release. Which receptor is primarily involved in this pathway?",
+    "options": [
+      "H1",
+      "D2",
+      "5-HT3",
+      "H2"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which antiemetic class is particularly important for chemotherapy-induced vomiting because of its efficacy and duration of action?",
+    "options": [
+      "5-HT3 receptor antagonists",
+      "H2-receptor antagonists",
+      "Antacids",
+      "Stool softeners"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient receiving chemotherapy is given ondansetron before treatment. What is its primary action?",
+    "options": [
+      "Blocks dopamine receptors in the CTZ only",
+      "Blocks 5-HT3 receptors in peripheral and central sites",
+      "Activates opioid receptors in the intestine",
+      "Stimulates chloride secretion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient receiving high-dose metoclopramide develops involuntary movements. Which adverse effect is most consistent with this drug?",
+    "options": [
+      "Gynecomastia",
+      "Extrapyramidal symptoms",
+      "Black tongue",
+      "Severe constipation from aluminum accumulation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient has anticipatory vomiting before chemotherapy begins. Which drug may be useful because of its sedative, anxiolytic, and amnesic effects?",
+    "options": [
+      "Lorazepam",
+      "Loperamide",
+      "Sucralfate",
+      "Lubiprostone"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient develops diarrhea due to increased intestinal motility. Which drug decreases peristalsis by activating opioid receptors in the enteric nervous system?",
+    "options": [
+      "Loperamide",
+      "Lactulose",
+      "Bisacodyl",
+      "Lubiprostone"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why should antimotility drugs such as loperamide and diphenoxylate be avoided in patients with severe colitis?",
+    "options": [
+      "They can contribute to toxic megacolon",
+      "They cause immediate gastric ulceration",
+      "They increase H. pylori resistance",
+      "They cause severe hypocalcemia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient with traveler’s diarrhea is given bismuth subsalicylate. Which adverse effect should the patient recognize as possible?",
+    "options": [
+      "White tongue and pale stools",
+      "Black tongue and black stools",
+      "Severe gynecomastia",
+      "Extrapyramidal movements"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient wants a laxative that forms a gel, retains water, distends the intestine, and increases peristaltic activity. Which is most appropriate?",
+    "options": [
+      "Psyllium",
+      "Mineral oil",
+      "Bisacodyl",
+      "Lubiprostone"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient with constipation also has hepatic encephalopathy. Which laxative is particularly useful because it can reduce ammonia levels?",
+    "options": [
+      "Senna",
+      "Lactulose",
+      "Mineral oil",
+      "Docusate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient has chronic constipation and needs a drug that increases intestinal fluid secretion by activating chloride channels, with little change in electrolyte balance. Which drug is most appropriate?",
+    "options": [
+      "Lubiprostone",
+      "Castor oil",
+      "Magnesium hydroxide",
+      "Bisacodyl"
+    ],
+    "correctAnswer": 0
+  }
+]

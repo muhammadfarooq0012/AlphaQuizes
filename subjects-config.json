@@ -36,7 +36,7 @@
       "icon": "fa-briefcase",
       "color": "#e67e22",
       "folder": "Entrepreneurship",
-      "chapters": ["Chapter01","Chapter02"]
+      "chapters": ["Chapter01","Chapter02","Chapter03"]
     },
     {
       "name": "ICT",
