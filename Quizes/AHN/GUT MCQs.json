@@ -1,0 +1,302 @@
+[
+  {
+    "question": "The nurse notes that a patient who is retaining fluid had a 1-kg weight gain. The nurse knows that this is equivalent to about:",
+    "options": [
+      "250 ml.",
+      "500 ml.",
+      "750 ml.",
+      "1,000 ml."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient is admitted with electrolyte imbalance. He has carpopedal spasm, ECG changes, and a positive Chvostek’s sign. The nurse suspects a deficit of:",
+    "options": [
+      "Calcium.",
+      "Magnesium.",
+      "Phosphorus.",
+      "Sodium."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Acute glomerulonephritis refers to a group of kidney diseases in which there is:",
+    "options": [
+      "An inflammatory reaction.",
+      "An antigen–antibody reaction to streptococci that results in circulating molecular complexes.",
+      "Cellular complexes that lodge in the glomeruli and injure the kidney.",
+      "A combination of all of the above."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Laboratory findings consistent with acute glomerulonephritis include all of the following except:",
+    "options": [
+      "Hematuria.",
+      "Polyuria.",
+      "Proteinuria.",
+      "White cell casts."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Chronic glomerulonephritis is manifested by:",
+    "options": [
+      "Anemia secondary to erythropoiesis.",
+      "Hypercalcemia and decreased serum phosphorus.",
+      "Hypokalemia and elevated bicarbonate.",
+      "Metabolic alkalosis."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The major manifestation of nephrotic syndrome is:",
+    "options": [
+      "Hematuria.",
+      "Hyperalbuminemia.",
+      "Edema.",
+      "Anemia."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A clinical diagnosis of nephrotic syndrome is consistent with an exceedingly high level of:",
+    "options": [
+      "Albumin.",
+      "Low-density lipoproteins.",
+      "Protein in the urine.",
+      "Serum cholesterol."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Acute renal failure (ARF) caused by parenchymal damage to the glomeruli or kidney tubules results in all of the following except:",
+    "options": [
+      "Decreased GFR.",
+      "Increased urine’s specific gravity.",
+      "Impaired electrolyte balance.",
+      "Progressive azotemia."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Oliguria is a clinical sign of ARF that refers to a daily urine output of:",
+    "options": [
+      "1.5 L.",
+      "1.0 L.",
+      "Less than 400 ml.",
+      "Less than 50 ml."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Potassium intake can be restricted by eliminating high-potassium foods such as:",
+    "options": [
+      "Butter.",
+      "Citrus fruits.",
+      "Cooked white rice.",
+      "Salad oils."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with ARF and negative nitrogen balance is expected to lose about:",
+    "options": [
+      "0.5 kg/day.",
+      "1.0 kg/day.",
+      "1.5 kg/day.",
+      "2.0 kg/day."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The leading cause of end-stage renal disease is:",
+    "options": [
+      "Diabetes mellitus.",
+      "Hypertension.",
+      "Glomerulonephritis.",
+      "Toxic agents."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Recent research about the long-term toxicity of aluminum products has led physicians to recommend antacids that lower serum phosphorus, such as:",
+    "options": [
+      "Calcium carbonate.",
+      "Sodium bicarbonate.",
+      "Magaldrate.",
+      "Milk of magnesia."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An incomplete protein not recommended for the diet of a patient managed by long-term hemodialysis is that found in:",
+    "options": [
+      "Eggs.",
+      "Fish.",
+      "Milk.",
+      "Nuts."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "With peritoneal dialysis, urea and creatinine pass through the peritoneum by:",
+    "options": [
+      "Active transport.",
+      "Diffusion and osmosis.",
+      "Filtration.",
+      "Ultrafiltration."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "At the end of five peritoneal exchanges, the patient’s fluid loss was 500 ml. This loss is equal to approximately:",
+    "options": [
+      "0.5 lb.",
+      "1.0 lb.",
+      "1.5 lb.",
+      "2 lb."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The major danger after renal surgery is:",
+    "options": [
+      "Abdominal distention owing to reflex cessation of intestinal peristalsis.",
+      "Hypovolemic shock caused by hemorrhage.",
+      "Paralytic ileus caused by manipulation of the colon during surgery.",
+      "Pneumonia caused by shallow breathing because of severe incisional pain."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An example of an upper urinary tract infection (UTI) is:",
+    "options": [
+      "Acute pyelonephritis.",
+      "Cystitis.",
+      "Prostatitis.",
+      "Urethritis."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A sign of possible UTI is:",
+    "options": [
+      "A negative urine culture.",
+      "An output of 200 to 900 ml with each voiding.",
+      "Cloudy urine.",
+      "Urine with a specific gravity of 1.005 to 1.022."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The most common site of a lower UTI is the:",
+    "options": [
+      "Bladder.",
+      "Kidney.",
+      "Prostate.",
+      "Urethra."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The most common organism responsible for UTIs in women and the elderly is:",
+    "options": [
+      "Klebsiella.",
+      "Escherichia coli.",
+      "Proteus.",
+      "Pseudomonas."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A first-line fluoroquinolone antibacterial agent for UTIs that has been found to be significantly effective is:",
+    "options": [
+      "Bactrim.",
+      "Cipro.",
+      "Macrodantin.",
+      "Septra."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Frequently, a urinary analgesic is prescribed for relief of burning, pain, and other symptoms of a UTI. An example would be:",
+    "options": [
+      "Bactrim.",
+      "Levaquin.",
+      "Pyridium.",
+      "Septra."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The type of incontinence that results from a sudden increase in intra-abdominal pressure is:",
+    "options": [
+      "Reflex incontinence.",
+      "Stress incontinence.",
+      "Overflow incontinence.",
+      "Urge incontinence."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Incontinence or dyssynergia is a voiding dysfunction found in the following neurogenic disorder:",
+    "options": [
+      "Cerebellar ataxia.",
+      "Diabetes.",
+      "Multiple sclerosis.",
+      "Parkinson’s disease."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Fluid management as a method of behavioral therapy for incontinence requires a daily liquid intake of:",
+    "options": [
+      "0.5 ml.",
+      "1.0 ml.",
+      "1.5 ml.",
+      "2.0 ml."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The major complication of neurogenic bladder is:",
+    "options": [
+      "Hypertrophy.",
+      "Infection.",
+      "Pain.",
+      "Spasm."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The major cause of death for patients with neurologic impairment of the bladder is:",
+    "options": [
+      "Myocardial infection.",
+      "Pulmonary edema.",
+      "Septicemia.",
+      "Renal failure."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A woman is taught to catheterize herself by inserting the catheter into the urethra:",
+    "options": [
+      "0.5 to 1 in.",
+      "2 in.",
+      "3 in.",
+      "5 in."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A major clinical manifestation of renal stones is:",
+    "options": [
+      "Dysuria.",
+      "Hematuria.",
+      "Infection.",
+      "Pain."
+    ],
+    "correctAnswer": 3
+  }
+]

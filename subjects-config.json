@@ -7,7 +7,8 @@
       "folder": "AHN",
       "chapters": [
         "Disorders of Reproductive System",
-        "Immunological Disorders"
+        "Immunological Disorders",
+        "GUT MCQs"
       ]
     },
     {
@@ -22,7 +23,7 @@
       "icon": "fa-pills",
       "color": "#9b59b6",
       "folder": "Pharmacology",
-      "chapters": ["General Pharma Test Mcqs"]
+      "chapters": ["General Pharma Test Mcqs","Git Pharmacology"]
     },
     {
       "name": "Civics",
