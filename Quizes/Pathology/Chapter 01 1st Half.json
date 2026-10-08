@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Cells normally maintain a steady state called ____________ in which the intracellular milieu is kept within a fairly narrow range of physiologic parameters.",
+    "options": [
+      "Adaptation",
+      "Homeostasis",
+      "Hemostasis",
+      "Heterostasis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The fairly narrow range of physiologic parameters maintained by homeostasis includes all EXCEPT:",
+    "options": [
+      "pH and ion concentration",
+      "Oxygen and nutrients",
+      "Genetic mutations",
+      "Temperature and metabolites"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If the adaptive capability is exceeded or if the external stress is inherently harmful, what develops?",
+    "options": [
+      "Homeostasis",
+      "Cell injury",
+      "Hyperplasia",
+      "Atrophy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cell death is a normal and essential process in all of the following EXCEPT:",
+    "options": [
+      "Embryogenesis",
+      "Development of organs",
+      "Maintenance of homeostasis",
+      "Irreversible cell injury"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Myocardium subjected to persistent increased load, as in hypertension or with a narrowed (stenotic) valve, adapts by undergoing _______ to generate the required higher contractile force.",
+    "options": [
+      "Hypertrophy",
+      "Atrophy",
+      "Metaplasia",
+      "Hyperplasia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Irreversible injury and cell death after complete or prolonged occlusion is called:",
+    "options": [
+      "Adaptation",
+      "Hyperplasia",
+      "Apoptosis",
+      "Infarction"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "_________ usually represent responses of cells to normal stimulation by hormones or endogenous chemical mediators.",
+    "options": [
+      "Each cellular adaptation",
+      "Pathologic adaptation",
+      "Physiologic adaptation",
+      "None"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "________ is an adaptive response in cells capable of replication.",
+    "options": [
+      "Hyperplasia",
+      "Hypertrophy",
+      "Dysplasia",
+      "Atypia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Trophic triggers that stimulate cell growth are:",
+    "options": [
+      "Growth factors",
+      "Ketone bodies",
+      "Adrenergic hormones",
+      "A & C"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "When part of a liver is resected, mitotic activity in the remaining cells begins as early as 12 hours later, eventually restoring the liver to its normal weight. Which type of cellular adaptation took place in this case?",
+    "options": [
+      "Physiologic hypertrophy",
+      "Physiologic hyperplasia",
+      "Compensatory hyperplasia",
+      "Compensatory hypertrophy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What happens to a hyperplastic process if the signals abate?",
+    "options": [
+      "Becomes cancer",
+      "Becomes necrotic",
+      "Hyperplasia disappears",
+      "Hyperplasia aggravates"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The degradation of cellular proteins occurs mainly by the _______.",
+    "options": [
+      "Autophagy",
+      "Degradation",
+      "Vacuoles",
+      "Ubiquitin-proteasome pathway"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Trans-differentiation is thought to arise by reprogramming of stem cells to differentiate along a new pathway rather than a phenotypic change of already differentiated cells. A similar term used for trans-differentiation is:",
+    "options": [
+      "Metaplasia",
+      "Dysplasia",
+      "Hyperplasia",
+      "Hypertrophy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which vitamin is essential for normal epithelial differentiation?",
+    "options": [
+      "Vitamin K",
+      "Vitamin B",
+      "Vitamin E",
+      "Vitamin A"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "When damage to membranes is severe, enzymes leak out of lysosomes, enter the cytoplasm, and digest the cell, resulting in _______.",
+    "options": [
+      "Apoptosis",
+      "Adaptation",
+      "Necrosis",
+      "Infarction"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When a cell is deprived of growth factors, or the cell’s DNA or proteins are damaged beyond repair, typically the cell kills itself by another type of death, called ______.",
+    "options": [
+      "Apoptosis",
+      "Adaptation",
+      "Necrosis",
+      "Infarction"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Apoptosis does not elicit an inflammatory response because:",
+    "options": [
+      "Cell membrane remains intact",
+      "It causes neutrophil activation",
+      "Contents are not released",
+      "A & C"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Word “nebulous” means:",
+    "options": [
+      "Point of reversal",
+      "Point of no return",
+      "Point of change",
+      "Point of hardiness"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The first manifestation of almost all forms of injury to cells is:",
+    "options": [
+      "Cellular swelling",
+      "Nuclear shrinkage",
+      "Membrane rupture",
+      "Fatty change"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Microscopic examination may reveal small, clear vacuoles within the cytoplasm; these represent distended and pinched-off segments of the endoplasmic reticulum (ER). This pattern of nonlethal injury is sometimes called ______.",
+    "options": [
+      "Fatty change",
+      "Amyloidosis",
+      "Hyaline change",
+      "Hydropic change"
+    ],
+    "correctAnswer": 3
+  }
+]
