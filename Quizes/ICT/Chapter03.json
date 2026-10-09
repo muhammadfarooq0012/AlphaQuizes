@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which statement best defines a Learning Management System (LMS)?",
+    "options": [
+      "A platform used only for video calls",
+      "A software platform used to create, deliver, manage, and track online learning activities",
+      "A search engine for educational websites",
+      "A tool used only to prepare presentations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A teacher uploads lectures, gives assignments, conducts quizzes, records marks, and monitors student progress. Which system best supports all these activities together?",
+    "options": [
+      "LMS",
+      "Social media platform",
+      "Search engine",
+      "Fitness application"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which LMS function is most directly involved when a teacher checks completed activities, attendance, and marks?",
+    "options": [
+      "Course creation",
+      "Communication",
+      "Progress tracking",
+      "Resource sharing"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A student living far from campus accesses lessons, assignments, and tests through a mobile phone. Which LMS benefit is most clearly demonstrated?",
+    "options": [
+      "Paper-based learning",
+      "Local storage",
+      "Manual assessment",
+      "Distance learning support"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which platform is described in the chapter as allowing teachers to create classes and invite students using a class code?",
+    "options": [
+      "Moodle",
+      "Google Classroom",
+      "Canvas",
+      "Blackboard"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A teacher wants students to submit work digitally and receive marks and comments online. Which Google Classroom feature is most relevant?",
+    "options": [
+      "Assignment management and grading",
+      "Class code generation only",
+      "Video editing",
+      "Search ranking"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which Google Classroom feature allows direct use of Docs, Sheets, Slides, Drive, Meet, and Forms?",
+    "options": [
+      "Course organization",
+      "Announcements",
+      "Google Apps integration",
+      "Offline storage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which advantage of Google Classroom most directly contributes to reducing paper use?",
+    "options": [
+      "Class codes",
+      "Online announcements",
+      "Student comments",
+      "Digital assignments and submissions"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Coursera, edX, Udemy, and Khan Academy are examples of:",
+    "options": [
+      "Online educational platforms",
+      "Operating systems",
+      "Cloud storage systems",
+      "Communication protocols"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A learner studies programming at midnight because the course can be accessed according to personal schedule and pace. Which benefit is shown?",
+    "options": [
+      "Expert instruction",
+      "Flexible learning",
+      "Grade management",
+      "Physical classroom interaction"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which feature of online educational platforms most directly supports career preparation?",
+    "options": [
+      "Entertainment",
+      "Social networking",
+      "Skill development",
+      "File compression"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement best defines interactive multimedia?",
+    "options": [
+      "Use of only text in teaching",
+      "Use of printed notes only",
+      "Use of live video only",
+      "Use of text, images, audio, video, animations, and simulations to improve learning"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A biology teacher uses an animation to show a complex cellular process that students found difficult to understand from text alone. Which role of interactive multimedia is demonstrated?",
+    "options": [
+      "Explaining difficult concepts",
+      "Reducing communication",
+      "Replacing all assessment",
+      "Limiting learning styles"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Interactive quizzes and educational games mainly promote:",
+    "options": [
+      "Passive learning",
+      "Active learning",
+      "Manual record keeping",
+      "Offline-only study"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A virtual classroom differs from a simple recorded video mainly because a virtual classroom allows:",
+    "options": [
+      "Only textbook reading",
+      "Only file downloading",
+      "Real-time interaction between teachers and students",
+      "No communication"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which feature of virtual classrooms best supports students who want to revisit lessons later?",
+    "options": [
+      "Live chat only",
+      "Digital attendance",
+      "Screen sharing",
+      "Recorded lectures"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which application of ICT in education allows students to quickly find research articles, e-books, and educational videos?",
+    "options": [
+      "Access to information",
+      "Health monitoring",
+      "Telemedicine",
+      "Fitness tracking"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Teachers conduct quizzes online and provide rapid feedback. Which ICT application in education is being used?",
+    "options": [
+      "Digital learning material",
+      "Online tests and assessments",
+      "Social networking",
+      "File synchronization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement best summarizes the role of ICT in healthcare according to the chapter?",
+    "options": [
+      "It is used only for entertainment in hospitals",
+      "It replaces all healthcare professionals",
+      "It improves communication, diagnosis, treatment, records, and access to services",
+      "It is limited to fitness applications"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A hospital stores patient history, test results, and prescriptions digitally. This is an example of:",
+    "options": [
+      "Telemedicine",
+      "Online education",
+      "Fitness tracking",
+      "Electronic Health Records"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient consults a doctor through a video call without going to a hospital. Which ICT application is this?",
+    "options": [
+      "Telemedicine",
+      "E-learning",
+      "Social networking",
+      "Data processing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A smartwatch records a user's heart rate, steps, and sleep patterns. Which ICT application does this represent?",
+    "options": [
+      "Electronic Health Records",
+      "Health monitoring",
+      "Online appointment booking",
+      "Virtual classroom"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Computers, imaging systems, and AI tools that help doctors detect diseases are mainly used for:",
+    "options": [
+      "Appointment scheduling",
+      "Communication",
+      "Medical diagnosis",
+      "Social awareness"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is classified as a health and fitness tracking device rather than an application?",
+    "options": [
+      "Google Fit",
+      "MyFitnessPal",
+      "Apple Health",
+      "Fitness band"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which activity is most directly associated with sleep tracking tools?",
+    "options": [
+      "Recording sleep duration and sleeping patterns",
+      "Booking doctor appointments",
+      "Conducting online classes",
+      "Storing academic grades"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A doctor reviews a patient's reports online and discusses symptoms without an in-person visit. Which use of telemedicine is most directly involved?",
+    "options": [
+      "Prescription printing",
+      "Remote diagnosis",
+      "Fitness monitoring",
+      "Course management"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient who recently had surgery communicates online with the doctor for progress review. Which telemedicine benefit is demonstrated?",
+    "options": [
+      "Online learning",
+      "Remote admission",
+      "Follow-up care",
+      "Market analysis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which benefit of online health consultation is especially important for people living in rural or distant locations?",
+    "options": [
+      "Greater travel requirement",
+      "Reduced record sharing",
+      "Limited access to specialists",
+      "Easier access to medical advice"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which statement correctly distinguishes data from information?",
+    "options": [
+      "Data are raw facts, while information is processed and meaningful data",
+      "Data are always meaningful, while information is unprocessed",
+      "Data and information are exactly the same",
+      "Information consists only of numbers"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The values `80, 90, 75` are processed to produce the statement “The average marks of the students are 82.” The first set represents data, while the final statement represents:",
+    "options": [
+      "Knowledge only",
+      "Information",
+      "Hardware",
+      "A learning platform"
+    ],
+    "correctAnswer": 1
+  }
+]

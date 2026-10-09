@@ -44,7 +44,7 @@
       "icon": "fa-laptop-code",
       "color": "#1abc9c",
       "folder": "ICT",
-      "chapters": ["Chapter01","Chapter02"]
+      "chapters": ["Chapter01","Chapter02","Chapter03"]
     },
     {
       "name": "Microbiology",
