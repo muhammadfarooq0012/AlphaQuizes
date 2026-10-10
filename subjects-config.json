@@ -30,7 +30,7 @@
       "icon": "fa-landmark",
       "color": "#3498db",
       "folder": "Civics",
-      "chapters": ["Chapeter01","Chapter02"]
+      "chapters": ["Chapeter01","Chapter02","Chapter03"]
     },
     {
       "name": "Entrepreneurship",

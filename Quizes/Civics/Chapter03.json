@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which statement best defines a community?",
+    "options": [
+      "A group of people who must live in the same house",
+      "A group of people who live in the same place or share common interests, needs, values, or goals",
+      "Only people working in the same organization",
+      "A temporary gathering with no shared interests"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which characteristic of a community is most clearly shown when people feel that they are part of the group?",
+    "options": [
+      "Interdependence",
+      "Continuity",
+      "Belongingness",
+      "Change"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When community members depend on one another for different needs, this characteristic is called:",
+    "options": [
+      "Interdependence",
+      "Common culture",
+      "Interaction",
+      "Continuity"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Community development is best described as:",
+    "options": [
+      "Government control over local people",
+      "The process in which people work together to improve their community and solve common problems",
+      "A system for increasing private business profits only",
+      "A short-term activity carried out without community participation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which outcome is most directly associated with effective community development?",
+    "options": [
+      "Reduced participation in decisions",
+      "Greater dependence on outsiders",
+      "Improved self-reliance and local services",
+      "Increased social conflict"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which social institution mainly teaches children values, manners, and social behavior?",
+    "options": [
+      "Economy",
+      "Government",
+      "Family",
+      "Healthcare"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which social institution is mainly responsible for producing and distributing goods and services and providing jobs?",
+    "options": [
+      "Religion",
+      "Economy",
+      "Education",
+      "Healthcare"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Social cohesion refers primarily to:",
+    "options": [
+      "Competition between community members",
+      "Unity, trust, and strong relationships among people in a community",
+      "Separation of people according to social status",
+      "Dependence only on government institutions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which factor would most directly strengthen social cohesion in a culturally diverse community?",
+    "options": [
+      "Mutual respect",
+      "Exclusion of minority groups",
+      "Unequal opportunities",
+      "Avoiding communication"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Community engagement means:",
+    "options": [
+      "Involving people in activities, decisions, and problem-solving to improve their community",
+      "Allowing only leaders to make community decisions",
+      "Providing information without receiving public feedback",
+      "Keeping community members separate from development projects"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A local organization asks residents about their needs, opinions, and suggestions before starting a project. Which approach to community engagement is being used?",
+    "options": [
+      "Volunteer activities",
+      "Surveys and feedback",
+      "Use of local leaders",
+      "Public awareness"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A small group of residents discusses one specific local problem and suggests possible solutions. Which engagement approach is this?",
+    "options": [
+      "Community meeting",
+      "Focus group discussion",
+      "Partnership",
+      "Public awareness campaign"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which engagement approach is most directly demonstrated when schools, hospitals, NGOs, and government organizations work together with community members?",
+    "options": [
+      "Partnership",
+      "Survey",
+      "Volunteer activity",
+      "Social media engagement"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An engagement program gives women, youth, elderly people, and minority groups equal chances to participate. This best reflects a/an:",
+    "options": [
+      "Exclusive approach",
+      "Inclusive approach",
+      "Leadership-only approach",
+      "Private approach"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why is community participation important in community development?",
+    "options": [
+      "It prevents people from identifying their needs",
+      "It increases dependence on outside organizations",
+      "It helps people take part in decisions and develop better local solutions",
+      "It reduces trust between people and organizations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement best explains the relationship between community development and social cohesion?",
+    "options": [
+      "They are unrelated processes",
+      "Community development can build relationships, while social cohesion increases trust and participation",
+      "Social cohesion prevents development projects",
+      "Community development always reduces cooperation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is a characteristic of effective community engagement?",
+    "options": [
+      "Ignoring community opinions",
+      "Restricting participation to leaders",
+      "Clear and open communication",
+      "Avoiding cultural differences"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a major role of communication in effective community engagement?",
+    "options": [
+      "It increases misunderstandings",
+      "It helps people share ideas, needs, and problems clearly",
+      "It removes the need for collaboration",
+      "It limits participation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Collaboration improves community engagement mainly because it:",
+    "options": [
+      "Keeps groups separate",
+      "Helps share skills, ideas, and resources",
+      "Reduces responsibility",
+      "Prevents joint problem-solving"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which ethical principle requires that people clearly understand the purpose of an activity before agreeing to participate?",
+    "options": [
+      "Informed consent",
+      "Accountability",
+      "Cultural respect",
+      "Equality"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Keeping community members' personal information private and not sharing it without permission is an example of:",
+    "options": [
+      "Public awareness",
+      "Privacy and confidentiality",
+      "Community participation",
+      "Resource sharing"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which ethical consideration means that community activities should not cause physical, social, emotional, or financial harm?",
+    "options": [
+      "Do no harm",
+      "Transparency",
+      "Informed consent",
+      "Equality"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Providing special care to children, women, elderly people, poor families, and people with disabilities reflects:",
+    "options": [
+      "Protection of vulnerable groups",
+      "Market segmentation",
+      "Public accountability",
+      "Volunteerism"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "People do not attend a community program because they do not know it exists. Which barrier is present?",
+    "options": [
+      "Language barrier",
+      "Lack of awareness",
+      "Weak leadership",
+      "Cultural differences"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is the most appropriate solution when unclear information is creating misunderstanding in a community project?",
+    "options": [
+      "Reduce communication",
+      "Use simple, clear, and regular communication",
+      "Avoid community meetings",
+      "Limit information to leaders"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If community members do not trust leaders or organizations, which response is most appropriate according to the chapter?",
+    "options": [
+      "Exclude them from decisions",
+      "Be honest, transparent, and involve people in decisions",
+      "Increase secrecy",
+      "Stop collecting feedback"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which initiative is specifically described as providing interest-free loans to poor people for starting small businesses?",
+    "options": [
+      "Edhi Foundation",
+      "Akhuwat Foundation",
+      "Saylani Welfare Trust",
+      "Orangi Pilot Project"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which initiative helped low-income communities in Karachi improve sanitation and basic infrastructure through local participation?",
+    "options": [
+      "Shaukat Khanum Memorial Cancer Hospital",
+      "Edhi Foundation",
+      "Orangi Pilot Project",
+      "Akhuwat Foundation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which initiative is described as providing free or low-cost cancer treatment supported by donations and community contributions?",
+    "options": [
+      "Saylani Welfare Trust",
+      "Shaukat Khanum Memorial Cancer Hospital",
+      "Edhi Foundation",
+      "Orangi Pilot Project"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which factor was common to the successful community-driven initiatives discussed in the chapter?",
+    "options": [
+      "Avoiding volunteers",
+      "Dependence only on government funding",
+      "Community participation, trust, and local support",
+      "Ignoring real community needs"
+    ],
+    "correctAnswer": 2
+  }
+]
