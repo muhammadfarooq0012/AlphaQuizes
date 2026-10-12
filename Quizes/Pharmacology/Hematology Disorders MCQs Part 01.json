@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Aspirin and clopidogrel both reduce platelet aggregation but act at different sites. Which correctly matches their mechanisms?",
+    "options": [
+      "Aspirin → P2Y12 blockade; Clopidogrel → COX-1 inhibition",
+      "Aspirin → GP IIb/IIIa blockade; Clopidogrel → thrombin inhibition",
+      "Aspirin → COX-1 inhibition; Clopidogrel → P2Y12 blockade",
+      "Aspirin → PDE III inhibition; Clopidogrel → GP IIb/IIIa blockade"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Damage to vascular endothelium decreases prostacyclin production. Which sequence most directly favors platelet aggregation?",
+    "options": [
+      "↑ Prostacyclin → ↑ cAMP → ↓ intracellular Ca²⁺",
+      "↓ Prostacyclin → ↓ cAMP → ↑ platelet activation",
+      "↓ Prostacyclin → ↑ cAMP → ↓ platelet activation",
+      "↑ Prostacyclin → ↓ cAMP → ↑ platelet activation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During platelet activation, GP IIb/IIIa receptors become activated. What is their most important role in platelet aggregation?",
+    "options": [
+      "Convert plasminogen to plasmin",
+      "Convert fibrinogen directly to fibrin",
+      "Bind fibrinogen to cross-link adjacent platelets",
+      "Bind collagen to inhibit platelet activation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient stops aspirin before surgery. Platelet function does not immediately return to normal because aspirin:",
+    "options": [
+      "Reversibly blocks P2Y12 receptors",
+      "Irreversibly inhibits platelet COX-1",
+      "Irreversibly blocks GP IIb/IIIa receptors",
+      "Reversibly inhibits thromboxane A₂ receptors"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient taking aspirin regularly begins taking ibuprofen shortly before each aspirin dose. Which effect is most likely?",
+    "options": [
+      "Increased irreversible inhibition of COX-1",
+      "Reduced antiplatelet effect of aspirin",
+      "Increased production of prostacyclin by platelets",
+      "Irreversible inhibition of the P2Y12 receptor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with acute coronary syndrome receives an antiplatelet drug that prevents ADP from activating GP IIb/IIIa receptors. Which drug class best matches this mechanism?",
+    "options": [
+      "Aspirin",
+      "P2Y12 ADP receptor inhibitors",
+      "GP IIb/IIIa receptor antagonists",
+      "Phosphodiesterase III inhibitors"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which P2Y12 inhibitor differs from clopidogrel, prasugrel, and ticlopidine because its receptor binding is reversible?",
+    "options": [
+      "Prasugrel",
+      "Clopidogrel",
+      "Ticagrelor",
+      "Ticlopidine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient taking clopidogrel is found to be a poor CYP2C19 metabolizer. Why may the antiplatelet response be reduced?",
+    "options": [
+      "Clopidogrel cannot irreversibly inhibit COX-1",
+      "Clopidogrel requires CYP2C19 conversion to its active metabolite",
+      "CYP2C19 normally activates GP IIb/IIIa directly",
+      "CYP2C19 is required for renal excretion of clopidogrel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient receiving clopidogrel is also prescribed omeprazole. According to the text, why should this combination be avoided?",
+    "options": [
+      "Omeprazole activates platelet GP IIb/IIIa receptors",
+      "Omeprazole inhibits CYP2C19 and may reduce clopidogrel activation",
+      "Omeprazole irreversibly inhibits the P2Y12 receptor",
+      "Omeprazole increases renal elimination of clopidogrel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with a previous TIA requires antiplatelet therapy. Which drug is specifically contraindicated according to the text?",
+    "options": [
+      "Prasugrel",
+      "Ticagrelor",
+      "Clopidogrel",
+      "Aspirin"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "During PCI, a patient receives a drug that directly blocks GP IIb/IIIa receptors. What is the immediate consequence?",
+    "options": [
+      "ADP cannot bind to P2Y12 receptors",
+      "Thromboxane A₂ cannot be synthesized",
+      "Fibrinogen cannot effectively cross-link platelets",
+      "Plasmin cannot degrade fibrin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which finding best distinguishes abciximab from eptifibatide and tirofiban?",
+    "options": [
+      "Abciximab is a P2Y12 receptor antagonist",
+      "Abciximab is a chimeric monoclonal antibody",
+      "Abciximab irreversibly inhibits COX-1",
+      "Abciximab increases intracellular cAMP"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with unstable angina is given an antiplatelet drug that also acts as a coronary vasodilator. The patient's ischemia worsens due to a coronary steal phenomenon. Which drug is most likely responsible?",
+    "options": [
+      "Cilostazol",
+      "Dipyridamole",
+      "Ticagrelor",
+      "Eptifibatide"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Both dipyridamole and cilostazol increase intracellular cAMP. Which mechanism specifically describes cilostazol?",
+    "options": [
+      "Inhibition of phosphodiesterase type III",
+      "Irreversible inhibition of COX-1",
+      "Direct inhibition of GP IIb/IIIa",
+      "Irreversible blockade of P2Y12 receptors"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient with intermittent claudication also has advanced heart failure. Which antiplatelet drug should be avoided despite its usefulness for intermittent claudication?",
+    "options": [
+      "Dipyridamole",
+      "Clopidogrel",
+      "Cilostazol",
+      "Ticlopidine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient has vascular injury that exposes tissue factor to circulating blood. Which event is most directly initiated?",
+    "options": [
+      "Activation of factor XII and intrinsic pathway",
+      "Activation of factor VII and extrinsic pathway",
+      "Conversion of fibrin directly to fibrinogen",
+      "Activation of antithrombin III by factor Xa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Both intrinsic and extrinsic coagulation pathways ultimately produce factor Xa. What is the next major action of factor Xa?",
+    "options": [
+      "Converts fibrin into fibrinogen",
+      "Converts plasminogen into plasmin",
+      "Converts prothrombin into thrombin",
+      "Converts factor XII into factor XIIa"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient receives unfractionated heparin. Which mechanism best explains its rapid anticoagulant effect?",
+    "options": [
+      "Directly inhibits vitamin K synthesis",
+      "Activates plasminogen to dissolve fibrin",
+      "Enhances antithrombin III inhibition of thrombin and factor Xa",
+      "Directly prevents synthesis of factors II, VII, IX, and X"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why do LMWHs have a greater effect on factor Xa than on thrombin compared with unfractionated heparin?",
+    "options": [
+      "They cannot bind antithrombin III",
+      "They bind less avidly to thrombin",
+      "They directly destroy factor Xa",
+      "They inhibit synthesis of thrombin in the liver"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A pregnant patient develops an acute DVT and requires anticoagulation. According to the text, which treatment is most appropriate?",
+    "options": [
+      "Warfarin because it does not cross the placenta",
+      "Heparin or LMWH because they do not cross the placenta",
+      "Warfarin because it has a longer half-life",
+      "Streptokinase because it prevents fibrin formation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient receiving continuous IV unfractionated heparin requires laboratory monitoring. Which result is most appropriate for adjusting the dose?",
+    "options": [
+      "INR 2–3 times normal",
+      "PT 1.5–2.5 times normal",
+      "aPTT 1.5–2.5 times normal control",
+      "Factor Xa level in every patient"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with renal impairment is receiving an LMWH. Which change is most likely according to the text?",
+    "options": [
+      "Shortened LMWH half-life",
+      "Prolonged LMWH half-life",
+      "Increased hepatic elimination",
+      "Loss of antithrombin III binding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient develops severe bleeding during heparin therapy. Which drug most directly reverses heparin's anticoagulant effect?",
+    "options": [
+      "Vitamin K₁",
+      "Tranexamic acid",
+      "Protamine sulfate",
+      "Alteplase"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient receiving heparin develops marked thrombocytopenia with a new thrombotic event. Which management is most appropriate according to the text?",
+    "options": [
+      "Continue heparin and add aspirin",
+      "Replace heparin with an LMWH",
+      "Discontinue heparin and consider argatroban",
+      "Administer vitamin K and continue heparin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with HIT also has significant renal dysfunction. Which anticoagulant may be particularly useful because it is metabolized in the liver?",
+    "options": [
+      "Argatroban",
+      "Enoxaparin",
+      "Desirudin",
+      "Heparin"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which property best explains why alteplase is described as fibrin selective at low doses?",
+    "options": [
+      "It preferentially activates fibrin-bound plasminogen",
+      "It directly inhibits factor Xa in a thrombus",
+      "It binds only to circulating free plasminogen",
+      "It inhibits activation of plasminogen in plasma"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient develops a fibrinolytic bleeding state following surgery. Which drug pair controls bleeding primarily by inhibiting plasminogen activation?",
+    "options": [
+      "Heparin and enoxaparin",
+      "Alteplase and urokinase",
+      "Aminocaproic acid and tranexamic acid",
+      "Protamine sulfate and vitamin K₁"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient on warfarin develops severe bleeding requiring immediate hemostasis. Why is vitamin K₁ alone insufficient for immediate correction?",
+    "options": [
+      "Vitamin K₁ only reverses heparin",
+      "Vitamin K₁ requires about 24 hours for synthesis of new coagulation factors",
+      "Vitamin K₁ first activates plasminogen",
+      "Vitamin K₁ temporarily increases INR before lowering it"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient taking an anticoagulant develops serious bleeding. Protamine sulfate successfully reverses the anticoagulant effect. Which drug was the patient most likely receiving?",
+    "options": [
+      "Warfarin",
+      "Heparin",
+      "Clopidogrel",
+      "Alteplase"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which pairing of anticoagulant and monitoring test is most appropriate?",
+    "options": [
+      "Heparin → PT/INR; Warfarin → aPTT",
+      "Heparin → aPTT; Warfarin → PT/INR",
+      "LMWH → routine PT/INR; Warfarin → bleeding time",
+      "Heparin → bleeding time; Warfarin → platelet count only"
+    ],
+    "correctAnswer": 1
+  }
+]
