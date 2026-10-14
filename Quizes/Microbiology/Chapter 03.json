@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A patient is exposed to a microorganism for the first time. Which immune mechanism can respond rapidly without requiring previous exposure to that specific organism?",
+    "options": [
+      "Adaptive immunity",
+      "Innate immunity",
+      "Secondary antibody response",
+      "Memory B-cell response"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which feature most clearly distinguishes adaptive immunity from innate immunity?",
+    "options": [
+      "Presence of physical barriers",
+      "Immediate nonspecific response",
+      "Specificity and immunologic memory",
+      "Action of neutrophils"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient is exposed to the same antigen several months after the first exposure. The second response is faster and stronger. Which property explains this?",
+    "options": [
+      "Phagocytosis",
+      "Inflammation",
+      "Complement activation",
+      "Immunologic memory"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which cells are primarily responsible for producing antibodies?",
+    "options": [
+      "Plasma cells",
+      "Cytotoxic T cells",
+      "Neutrophils",
+      "Macrophages"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A virus infects a host cell and produces viral proteins inside that cell. Which arm of adaptive immunity is most important for destroying the infected cell?",
+    "options": [
+      "Humoral immunity",
+      "Complement alone",
+      "Cell-mediated immunity",
+      "IgA-mediated immunity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which cells are most directly responsible for killing virus-infected host cells?",
+    "options": [
+      "B lymphocytes",
+      "CD8 cytotoxic T cells",
+      "Plasma cells",
+      "Mast cells"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A macrophage presents an antigen to a helper T cell. Which MHC molecule is primarily involved in presenting antigen to CD4 T cells?",
+    "options": [
+      "Class II MHC",
+      "Class I MHC",
+      "IgM",
+      "Complement C3"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Viral peptides produced inside an infected cell are generally presented to CD8 T cells through:",
+    "options": [
+      "Class II MHC",
+      "Surface IgM",
+      "Fc receptors",
+      "Class I MHC"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which statement best describes humoral immunity?",
+    "options": [
+      "It is mediated mainly by antibodies produced by B cells",
+      "It is mediated only by neutrophils",
+      "It destroys infected cells exclusively through CD8 cells",
+      "It lacks specificity"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient has a defect in helper T-cell function. Which immune process would most likely be impaired?",
+    "options": [
+      "Formation of skin barriers",
+      "Activation of both B cells and other T-cell responses",
+      "Production of neutrophils only",
+      "Mechanical removal of microbes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which feature is characteristic of an antigen rather than an antibody?",
+    "options": [
+      "It is produced by plasma cells",
+      "It has heavy and light chains",
+      "It can stimulate a specific immune response",
+      "It contains constant and variable regions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The specific portion of an antigen that is recognized by an antibody is called the:",
+    "options": [
+      "Fc region",
+      "Epitope",
+      "Hinge region",
+      "Constant region"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which part of an immunoglobulin molecule is primarily responsible for antigen binding?",
+    "options": [
+      "Variable region",
+      "Constant region only",
+      "Fc portion only",
+      "Complement-binding site exclusively"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which antibody is produced first during the primary immune response?",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient is exposed to the same antigen for a second time. Which antibody is typically dominant in the secondary response?",
+    "options": [
+      "IgG",
+      "IgM only",
+      "IgE only",
+      "IgD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which immunoglobulin is most important in mucosal secretions such as saliva, tears, and intestinal secretions?",
+    "options": [
+      "IgM",
+      "IgA",
+      "IgD",
+      "IgG"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which immunoglobulin class is most strongly associated with immediate hypersensitivity reactions?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgD"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A pregnant woman transfers antibodies across the placenta to the fetus. Which immunoglobulin is mainly responsible?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgE",
+      "IgG"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Why is the secondary antibody response usually stronger than the primary response?",
+    "options": [
+      "Memory cells were generated during the first exposure",
+      "Innate immunity becomes antigen-specific",
+      "Neutrophils permanently retain antigen memory",
+      "The antigen becomes more immunogenic automatically"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient develops wheezing and hypotension within minutes after exposure to an allergen. Which hypersensitivity type is most likely?",
+    "options": [
+      "Type IV",
+      "Type I",
+      "Type III",
+      "Type II"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In type I hypersensitivity, allergen-mediated cross-linking of which molecule on mast cells triggers mediator release?",
+    "options": [
+      "IgM",
+      "IgG",
+      "IgE",
+      "IgA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which mediator released from mast cells is an important cause of immediate allergic symptoms such as vasodilation and increased vascular permeability?",
+    "options": [
+      "Histamine",
+      "Hemoglobin",
+      "Insulin",
+      "Albumin"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Antibodies directed against antigens on the surface of host cells, resulting in cellular injury, are characteristic of:",
+    "options": [
+      "Type I hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity",
+      "Type II hypersensitivity"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which mechanism is most characteristic of type III hypersensitivity?",
+    "options": [
+      "IgE-mediated mast-cell activation",
+      "Deposition of antigen-antibody immune complexes in tissues",
+      "Direct cytotoxic T-cell killing only",
+      "Failure of antibody production"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A hypersensitivity reaction develops primarily through sensitized T cells rather than antibodies. Which type is this?",
+    "options": [
+      "Type IV",
+      "Type I",
+      "Type II",
+      "Type III"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A tuberculin skin test becomes positive 48 hours after antigen exposure. Which immune mechanism is primarily responsible?",
+    "options": [
+      "IgE-mediated immediate reaction",
+      "Immune-complex deposition",
+      "Delayed T-cell-mediated hypersensitivity",
+      "IgM-mediated complement activation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement best describes immunologic tolerance?",
+    "options": [
+      "Enhanced response to all foreign antigens",
+      "Absence of an immune response to a specific antigen",
+      "Continuous activation of B cells",
+      "Increased production of IgE"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Failure to maintain tolerance to self-antigens can result in:",
+    "options": [
+      "Passive immunity",
+      "Increased innate immunity only",
+      "Normal immune memory",
+      "Autoimmune disease"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "During development, a self-reactive lymphocyte is eliminated before it can enter the peripheral circulation. This mechanism contributes most directly to:",
+    "options": [
+      "Central tolerance",
+      "Type I hypersensitivity",
+      "Passive immunity",
+      "Secondary immune response"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A lymphocyte recognizes a self-antigen in peripheral tissues but does not receive the necessary second activation signal and becomes unresponsive. Which mechanism best explains this?",
+    "options": [
+      "Antibody class switching",
+      "Complement fixation",
+      "Peripheral tolerance/anergy",
+      "Mast-cell degranulation"
+    ],
+    "correctAnswer": 2
+  }
+]

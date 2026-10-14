@@ -51,7 +51,7 @@
       "icon": "fa-bacteria",
       "color": "#f39c12",
       "folder": "Microbiology",
-      "chapters": ["Chapter 01 & Chapter 02"]
+      "chapters": ["Chapter 01 & Chapter 02","Chapter 03"]
     },
     {
       "name": "HA",
