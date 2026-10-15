@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Hypoxic death of cells within the central nervous system often evokes which type of necrosis?",
+    "options": [
+      "Coagulative necrosis",
+      "Liquefactive necrosis",
+      "Caseous necrosis",
+      "Fat necrosis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Necrotic cells show increased eosinophilia on H&E stain. What is the reason?",
+    "options": [
+      "Increased binding of hematoxylin to nucleus",
+      "Increased binding of eosin to denatured cytoplasmic proteins and loss of cytoplasmic RNA",
+      "Deposition of calcium",
+      "Presence of bacteria"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Coagulative necrosis is a form of necrosis in which:",
+    "options": [
+      "Tissue architecture is completely lost immediately",
+      "Underlying tissue architecture is preserved for at least several days",
+      "Tissue becomes liquid and pus-like",
+      "Tissue looks cheese-like"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Coagulative necrosis is characteristic of infarcts in all solid organs EXCEPT:",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Brain",
+      "Liver"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When bacterial infection is superimposed on coagulative necrosis, it is modified to:",
+    "options": [
+      "Dry gangrene",
+      "Wet gangrene",
+      "Caseous necrosis",
+      "Fat necrosis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'Caseous' mean?",
+    "options": [
+      "Cheese-like, referring to friable yellow-white appearance",
+      "Liquid-like",
+      "Chalky white appearance",
+      "Bright pink amorphous appearance"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The released fatty acids combine with calcium to produce grossly visible chalky white areas. This process is called:",
+    "options": [
+      "Fibrinoid necrosis",
+      "Coagulative necrosis",
+      "Fat saponification",
+      "Caseation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The deposited immune complexes together with fibrin produce a bright pink and amorphous appearance on H&E called:",
+    "options": [
+      "Coagulative necrosis",
+      "Liquefactive necrosis",
+      "Fibrinoid necrosis",
+      "Caseous necrosis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 42-year-old man with acute pancreatitis undergoes laparotomy. The mesentery shows areas of white chalky deposits. These deposits represent foci of fat saponification. What is the biochemical mechanism?",
+    "options": [
+      "Deposited immune complexes with fibrin leakage",
+      "Released fatty acids combining with calcium to form calcium soaps",
+      "Coagulative necrosis with preserved tissue architecture",
+      "Accumulation of misfolded proteins in ER"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to cell injury, complete ischemia is tolerated for different durations by different cells. Skeletal muscle tolerates complete ischemia for 2-3 hours, cardiac muscle dies after only 20-30 minutes. What is the BEST explanation for this difference?",
+    "options": [
+      "Skeletal muscle has more mitochondria",
+      "The consequences depend on type, status, adaptability and genetic makeup",
+      "Heart has no ATP",
+      "Skeletal muscle does not need oxygen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The characteristic combinations of sign and symptoms associated with a particular disease is called:",
+    "options": [
+      "Pathogenesis",
+      "Syndrome",
+      "Manifestations",
+      "Disease"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The type of necrosis that occurs in peripancreatic tissue in acute pancreatitis is:",
+    "options": [
+      "Liquefaction",
+      "Fat",
+      "Coagulation",
+      "Granulomatous"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following processes explains the appearance of calcium deposition in tuberculosis lymph nodes?",
+    "options": [
+      "Hypercalcemia",
+      "Metastatic calcification",
+      "Dystrophic calcification",
+      "Neoplastic changes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A deficit of oxygen in the cells usually due to respiratory or circulatory problems is called:",
+    "options": [
+      "Apoptosis",
+      "Ischemia",
+      "Hypertrophy",
+      "Necrosis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The term pathogenesis refers to:",
+    "options": [
+      "The development of a disease or sequence of events related to tissue changes involved in the disease process",
+      "The determination of the cause(s) involved in the development of a malignant neoplasm",
+      "The specific signs and symptoms involved in the change from an acute disease to a chronic disease",
+      "The changes in cells of affected tissue that result in necrosis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is considered a systemic sign of disease?",
+    "options": [
+      "Swelling of the knee",
+      "Fever",
+      "Pain in the neck",
+      "Red rash on the face"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Irreversible cell injury is characterized by:",
+    "options": [
+      "Dispersion of ribosomes",
+      "Nuclear chromatin clumping",
+      "Lysosomal rupture",
+      "Cell membrane defects"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A biologist investigates a cellular process that involves the deliberate death of cells, which is essential for development, tissue homeostasis, and eliminating damaged cells. What is this process called?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Apoptosis",
+      "Autophagy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why does ischemia injure faster than hypoxia?",
+    "options": [
+      "Hypoxia stops oxidative phosphorylation completely",
+      "Ischemia blocks both oxygen AND glycolytic substrates",
+      "Hypoxia increases ROS more",
+      "Ischemia preserves ATP"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is true for ischemia-reperfusion injury?",
+    "options": [
+      "Reperfusion always salvages reversibly injured cells",
+      "Increased ROS on reoxygenation + influx of leukocytes & complement activation",
+      "It is due to decreased oxygen supply and antioxidant defenses increased",
+      "Antioxidant defenses are increased only"
+    ],
+    "correctAnswer": 1
+  }
+]
