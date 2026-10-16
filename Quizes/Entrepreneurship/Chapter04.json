@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which statement best describes financial literacy?",
+    "options": [
+      "The ability to increase income only",
+      "The ability to understand and manage money effectively",
+      "The process of borrowing from banks",
+      "The practice of avoiding all investment"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An entrepreneur sets aside part of monthly income for future emergencies. Which component of financial literacy is being applied?",
+    "options": [
+      "Investment",
+      "Debt management",
+      "Saving",
+      "Financial products"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A business owner carefully controls borrowed money and makes repayments on time. Which financial literacy component is most directly involved?",
+    "options": [
+      "Debt management",
+      "Budgeting",
+      "Saving",
+      "Investment"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which term refers to a financial plan showing expected income and expenses for a specific period?",
+    "options": [
+      "Balance sheet",
+      "Cash flow",
+      "Income statement",
+      "Budget"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A person receives money by renting out a property while doing little ongoing work. This income is best classified as:",
+    "options": [
+      "Active income",
+      "Passive income",
+      "Business income",
+      "Salary income"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is the best example of investment income?",
+    "options": [
+      "Salary",
+      "Service fee",
+      "Dividend",
+      "Freelancing payment"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A freelancer designs websites independently for different clients and receives payment. According to the chapter, this is a source of:",
+    "options": [
+      "Income",
+      "Liability",
+      "Equity",
+      "Cash outflow"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which financial statement shows assets, liabilities, and owner’s equity at a specific point in time?",
+    "options": [
+      "Income statement",
+      "Budget",
+      "Cash flow statement",
+      "Balance sheet"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A business has assets worth Rs. 900,000 and liabilities of Rs. 350,000. What is the owner’s equity according to the accounting equation?",
+    "options": [
+      "Rs. 1,250,000",
+      "Rs. 550,000",
+      "Rs. 350,000",
+      "Rs. 900,000"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which accounting equation is presented in the chapter?",
+    "options": [
+      "Assets = Liabilities + Owner’s Equity",
+      "Revenue = Assets − Liabilities",
+      "Profit = Assets + Expenses",
+      "Equity = Revenue + Expenses"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A company owns cash, inventory, and accounts receivable that can be converted into cash quickly. These are classified as:",
+    "options": [
+      "Intangible assets",
+      "Financial assets",
+      "Current assets",
+      "Fixed assets"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A factory building and manufacturing machinery used for many years are examples of:",
+    "options": [
+      "Current assets",
+      "Liabilities",
+      "Intangible assets",
+      "Fixed assets"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which asset has economic value but no physical form?",
+    "options": [
+      "Patent",
+      "Inventory",
+      "Vehicle",
+      "Cash"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is classified as a financial asset in the chapter?",
+    "options": [
+      "Machinery",
+      "Shares",
+      "Building",
+      "Inventory"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A debt must be repaid within the next eight months. It should be classified as a:",
+    "options": [
+      "Long-term liability",
+      "Fixed asset",
+      "Current liability",
+      "Financial asset"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A mortgage payable over several years is best classified as:",
+    "options": [
+      "Long-term liability",
+      "Current asset",
+      "Operating expense",
+      "Owner’s equity"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which financial statement shows a business’s income and expenses over a specific period?",
+    "options": [
+      "Balance sheet",
+      "Asset statement",
+      "Equity statement",
+      "Income statement"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A business earns Rs. 150,000 in revenue and spends Rs. 95,000 on expenses. What is its net profit?",
+    "options": [
+      "Rs. 245,000",
+      "Rs. 55,000",
+      "Rs. 95,000",
+      "Rs. 150,000"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which formula correctly represents profit or loss according to the chapter?",
+    "options": [
+      "Revenue − Expenses = Net Profit/Loss",
+      "Assets − Revenue = Profit",
+      "Equity + Expenses = Profit",
+      "Revenue + Expenses = Net Profit"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement best distinguishes saving from investment?",
+    "options": [
+      "Saving always gives higher returns than investment",
+      "Investment is mainly for short-term safety",
+      "Saving is generally lower risk, while investment usually carries higher risk for potential growth",
+      "Saving and investment are exactly the same"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A business receives money from customers and pays employee salaries as part of daily operations. Which type of cash flow is this?",
+    "options": [
+      "Investing cash flow",
+      "Financing cash flow",
+      "Capital cash flow",
+      "Operating cash flow"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A company purchases new machinery. Which type of cash flow is most directly involved?",
+    "options": [
+      "Investing cash flow",
+      "Operating cash flow",
+      "Financing cash flow",
+      "Passive cash flow"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A startup receives money by taking a bank loan. Which type of cash flow does this represent?",
+    "options": [
+      "Operating cash flow",
+      "Financing cash flow",
+      "Investing cash flow",
+      "Revenue flow"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why is effective cash-flow management important?",
+    "options": [
+      "It eliminates all liabilities",
+      "It guarantees unlimited profit",
+      "It helps prevent cash shortages and supports smooth operations",
+      "It converts all expenses into assets"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which banking product is primarily used to make payments and transfer money?",
+    "options": [
+      "Payment product",
+      "Deposit product",
+      "Investment product",
+      "Loan product"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In which Islamic mode of financing does the bank buy an asset and sell it to the customer at a disclosed profit?",
+    "options": [
+      "Ijarah",
+      "Musharakah",
+      "Mudarabah",
+      "Murabaha"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In which Islamic financing arrangement does one party provide capital while the other manages the business and profit is shared?",
+    "options": [
+      "Salam",
+      "Mudarabah",
+      "Istisna",
+      "Ijarah"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which startup funding source involves raising relatively small amounts of money from many people?",
+    "options": [
+      "Crowdfunding",
+      "Venture capital",
+      "Bank loan",
+      "Angel financing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An investor gives money to a startup in exchange for ownership, and there is no fixed loan repayment. This is best described as:",
+    "options": [
+      "Debt financing",
+      "Deposit financing",
+      "Equity financing",
+      "Remittance financing"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A company’s customers are powerful enough to demand lower prices and better terms. Which of Porter’s Five Forces is most directly demonstrated?",
+    "options": [
+      "Threat of substitutes",
+      "Competitive rivalry",
+      "Bargaining power of suppliers",
+      "Bargaining power of buyers"
+    ],
+    "correctAnswer": 3
+  }
+]
