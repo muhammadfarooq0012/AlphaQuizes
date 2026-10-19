@@ -1,0 +1,202 @@
+[
+  {
+    "question": "A patient with peripheral vascular disease is given a drug that improves erythrocyte flexibility, decreases blood viscosity, and improves tissue oxygenation. Which drug best fits this mechanism?",
+    "options": [
+      "Hydroxyurea",
+      "Pentoxifylline",
+      "Darbepoetin",
+      "Pegfilgrastim"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient cannot tolerate oral iron because of severe GI adverse effects and is switched to iron dextran. Which precaution is particularly important?",
+    "options": [
+      "Give vitamin B12 before treatment",
+      "Administer a test dose before iron dextran",
+      "Monitor INR before each dose",
+      "Give folic acid simultaneously"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient receiving excessive iron develops toxicity. Which drug mentioned in the text can reverse iron toxicity?",
+    "options": [
+      "Leucovorin",
+      "Deferoxamine",
+      "Hydroxocobalamin",
+      "Darbepoetin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient receiving methotrexate develops folate deficiency because of inhibition of dihydrofolate reductase. Which form of folate is most appropriate according to the text?",
+    "options": [
+      "Folic acid only",
+      "Cyanocobalamin",
+      "Folinic acid (leucovorin calcium)",
+      "Hydroxocobalamin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with megaloblastic anemia is treated with folic acid alone. The anemia improves, but neurologic disease continues to progress. Which deficiency was most likely masked?",
+    "options": [
+      "Iron deficiency",
+      "Vitamin B12 deficiency",
+      "Erythropoietin deficiency",
+      "Transferrin deficiency"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A severely anemic patient requires immediate correction. Why are epoetin alfa and darbepoetin unsuitable for acute treatment?",
+    "options": [
+      "They cause immediate bone marrow suppression",
+      "They have a delayed onset of action",
+      "They inhibit iron absorption",
+      "They rapidly destroy reticulocytes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient receiving chemotherapy needs prophylaxis against severe neutropenia. Which agent differs from the others because it is generally administered as a single dose 24 hours after chemotherapy?",
+    "options": [
+      "Filgrastim",
+      "Sargramostim",
+      "Tbo-filgrastim",
+      "Pegfilgrastim"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with sickle cell disease experiences frequent painful crises. Hydroxyurea reduces these episodes primarily because it:",
+    "options": [
+      "Increases erythrocyte flexibility directly",
+      "Increases fetal hemoglobin, diluting HbS",
+      "Increases erythropoietin production",
+      "Reduces blood viscosity by increasing plasma volume"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with megaloblastic anemia has impaired synthesis of purines and pyrimidines. Which deficiency most directly explains this finding according to the text?",
+    "options": [
+      "Iron deficiency",
+      "Erythropoietin deficiency",
+      "Folic acid deficiency",
+      "Transferrin deficiency"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient receiving epoetin alfa has a rapid rise in hemoglobin. Which change would create the greatest concern according to the text?",
+    "options": [
+      "Hemoglobin rises by more than 1 g/dL over 2 weeks",
+      "Hemoglobin remains below 8 g/dL initially",
+      "Reticulocyte production increases",
+      "Iron supplementation becomes necessary"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient with elevated LDL-C does not achieve adequate reduction despite diet, exercise, and weight loss. Which drug class is considered the primary first-line treatment?",
+    "options": [
+      "Fibrates",
+      "Bile acid sequestrants",
+      "HMG-CoA reductase inhibitors",
+      "Omega-3 fatty acids"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with homozygous familial hypercholesterolemia responds poorly to statin therapy. Which factor best explains the reduced response?",
+    "options": [
+      "Excessive HDL production",
+      "Lack of functional LDL receptors",
+      "Reduced intestinal absorption of statins",
+      "Excessive lipoprotein lipase activity"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient taking a statin complains of unexplained muscle pain and weakness. Which laboratory test is most appropriate according to the text?",
+    "options": [
+      "INR",
+      "Plasma creatine kinase",
+      "Serum uric acid",
+      "HDL-C only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with very low HDL-C and elevated triglycerides requires additional lipid-lowering therapy. Which drug is described as the most effective for increasing HDL-C?",
+    "options": [
+      "Ezetimibe",
+      "Niacin",
+      "Cholestyramine",
+      "Atorvastatin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient experiences intense flushing and warmth shortly after taking niacin. Which intervention can decrease this adverse effect?",
+    "options": [
+      "Taking aspirin before niacin",
+      "Taking warfarin before niacin",
+      "Taking gemfibrozil with niacin",
+      "Taking cholestyramine immediately afterward"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient receiving simvastatin requires additional treatment for severe hypertriglyceridemia. Which drug should specifically be avoided because of an increased risk of myopathy and rhabdomyolysis?",
+    "options": [
+      "Gemfibrozil",
+      "Ezetimibe",
+      "Colesevelam",
+      "Omega-3 fatty acids"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A statin-intolerant patient is prescribed a drug that selectively inhibits absorption of both dietary and biliary cholesterol in the small intestine. Which drug is it?",
+    "options": [
+      "Fenofibrate",
+      "Niacin",
+      "Ezetimibe",
+      "Cholestyramine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient taking warfarin is started on a fibrate. Which parameter should be monitored more frequently because fibrates may increase the effect of warfarin?",
+    "options": [
+      "Creatine kinase",
+      "INR",
+      "Serum calcium",
+      "Absolute neutrophil count"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with severe hypertriglyceridemia needs the most effective triglyceride-lowering drug class from the options below. Which is most appropriate according to the text?",
+    "options": [
+      "Bile acid sequestrants",
+      "Fibrates",
+      "Ezetimibe",
+      "Statins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient has type III hyperlipidemia with accumulation of intermediate-density lipoprotein particles. Which class is particularly useful for this condition?",
+    "options": [
+      "Fibrates",
+      "Statins",
+      "Cholesterol absorption inhibitors",
+      "Bile acid sequestrants"
+    ],
+    "correctAnswer": 0
+  }
+]
