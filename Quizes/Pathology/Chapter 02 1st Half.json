@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Which cells and molecules of host defense play important role in inflammation?",
+    "options": [
+      "Leukocytes",
+      "Plasma proteins",
+      "Neutrophils",
+      "A & B both"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Inflammatory mediators are produced from:",
+    "options": [
+      "Proteins",
+      "Plasma proteins",
+      "DNA coding",
+      "Replication"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Principal leukocytes in acute inflammation are:",
+    "options": [
+      "Basophils",
+      "Eosinophils",
+      "Neutrophils",
+      "Macrophages"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Primary mediator of immediate transient phase of vascular permeability is _____",
+    "options": [
+      "Serotonin",
+      "Histamine",
+      "Bradykinin",
+      "Prostaglandins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Fifth cardinal sign of inflammation is _______ and it was added by ____",
+    "options": [
+      "Calor, Celsus",
+      "Calor, Virchow",
+      "Functio laesa, Celsus",
+      "Functio laesa, Virchow"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Phagocytes, dendritic cells, and many other cells, such as epithelial cells, express receptors that are designed to sense the presence of infectious pathogens and substances released from dead cells. These receptors have been called ______",
+    "options": [
+      "Pattern producer receptors",
+      "Pattern recognition receptors",
+      "Danger signals",
+      "Toll receptors"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Toll-liked receptors are located in ______",
+    "options": [
+      "Exosomes",
+      "Endosomes",
+      "Plasma membrane & exosomes",
+      "Plasma membrane & endosomes"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Multi-protein cytoplasmic complex that recognizes products of dead cells, such as uric acid and extracellular ATP, as well as crystals and microbial products, is:",
+    "options": [
+      "Inflammasome",
+      "TLRs",
+      "Danger signals",
+      "None"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "First step of vascular changes in acute inflammation is:",
+    "options": [
+      "Vasoconstriction",
+      "Vasodilation",
+      "Increased permeability",
+      "Stasis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Low protein content, few cells refer to:",
+    "options": [
+      "Exudate",
+      "Normal",
+      "Transudate",
+      "Edema"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Direct injury to endothelial cells may also induce a delayed prolonged leakage that begins after a delay of ______ hours:",
+    "options": [
+      "1-2",
+      "2-4",
+      "2-10",
+      "2-12"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "___________ is distributed to the cell surface, where it can facilitate leukocytes binding.",
+    "options": [
+      "P-selectin",
+      "E-selectin",
+      "IL-1",
+      "L-selectin"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Adhesion in vascular changes is mediated by:",
+    "options": [
+      "TNF",
+      "Integrins",
+      "Selectins",
+      "Ligand"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Role of CD3I in vascular events is:",
+    "options": [
+      "Rolling",
+      "Adhesion",
+      "Binding",
+      "Transmigration"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Neutrophils predominate in the inflammatory infiltrate during the first _______ and are replaced by monocytes in _________",
+    "options": [
+      "6 to 24 hours, 24 to 48 hours",
+      "4 to 12 hours, 24 to 48 hours",
+      "6 to 24 hours, 22 to 46 hours",
+      "4 to 12 hours, 24 to 48 hours"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Phagocytosis and the engagement of various cellular receptors stimulate an oxidative burst, also called _____",
+    "options": [
+      "Oxidative stress",
+      "Respiratory stress",
+      "Respiratory burst",
+      "Both a & C"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Oxidative burst is characterized by all of the following EXCEPT:",
+    "options": [
+      "Increased O2 consumption",
+      "Increased glucose oxidation",
+      "Glycogen catabolism",
+      "Destruction of ROS"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which cells and molecules are involved in acute leukocyte-induced injury septic shock:",
+    "options": [
+      "Neutrophils",
+      "Eosinophils",
+      "Cytokines",
+      "Macrophages"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Local defect, or excavation, of the surface of an organ produced by sloughing of tissue is:",
+    "options": [
+      "Abscess",
+      "Ulcer",
+      "Scar",
+      "Diabetic wound"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Source of Factor XII (Hageman factor) is:",
+    "options": [
+      "All leukocytes",
+      "Neutrophils only",
+      "Complement complex",
+      "Kinin system"
+    ],
+    "correctAnswer": 3
+  }
+]
