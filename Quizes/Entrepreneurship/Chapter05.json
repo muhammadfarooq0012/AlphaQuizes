@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which section of a business plan gives a brief overview of the entire plan?",
+    "options": [
+      "Market Analysis",
+      "Executive Summary",
+      "Financial Plan",
+      "Organization and Management"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An entrepreneur wants to explain the target customers, competitors, and market conditions. Which section of the business plan should contain this information?",
+    "options": [
+      "Market Analysis",
+      "Products/Services",
+      "Funding Requirements",
+      "Executive Summary"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which part of a business plan mainly explains how the business will attract customers and sell its products?",
+    "options": [
+      "Organization and Management",
+      "Financial Plan",
+      "Marketing and Sales Plan",
+      "Business Description"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A startup wants investors to know how much money is needed and how the money will be used. Which section is most relevant?",
+    "options": [
+      "Executive Summary",
+      "Products/Services",
+      "Market Analysis",
+      "Funding Requirements"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which part of a business plan shows expected costs, revenue, profits, and financial needs?",
+    "options": [
+      "Financial Plan",
+      "Business Description",
+      "Market Analysis",
+      "Products/Services"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A startup team has talented members, but several members are doing the same work while other tasks are ignored. Which team element is most clearly missing?",
+    "options": [
+      "Trust",
+      "Defined roles",
+      "Cooperation",
+      "Leadership only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which characteristic most strongly distinguishes a functional team from a non-functional team?",
+    "options": [
+      "Functional teams avoid communication",
+      "Functional teams have unclear goals",
+      "Functional teams work toward common goals and cooperate",
+      "Functional teams always have fewer members"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A startup has highly skilled employees, but they do not share information with one another. Which essential team element needs the most improvement?",
+    "options": [
+      "Right people and skills",
+      "Clear goals",
+      "Strong leadership",
+      "Good communication"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which is the first major step in building a strong startup team according to the chapter?",
+    "options": [
+      "Set clear goals",
+      "Motivate the team",
+      "Review performance",
+      "Build trust"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When selecting startup team members, which combination is most appropriate?",
+    "options": [
+      "Popularity and personal friendship only",
+      "Right skills, knowledge, and positive attitude",
+      "Age and seniority only",
+      "Willingness to work without defined duties"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A leader appreciates employees and rewards good performance. Which step in building a strong startup team is being applied?",
+    "options": [
+      "Define roles",
+      "Build trust",
+      "Motivate the team",
+      "Set goals"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A startup regularly checks team performance and changes weak areas when necessary. Which step does this represent?",
+    "options": [
+      "Select the right people",
+      "Promote cooperation",
+      "Encourage communication",
+      "Review and improve"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "According to Tuckman’s model, team members first meet, learn about each other, and begin understanding their roles during:",
+    "options": [
+      "Forming",
+      "Storming",
+      "Performing",
+      "Adjourning"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Members begin arguing about ideas, roles, and leadership. Which stage of team development are they experiencing?",
+    "options": [
+      "Performing",
+      "Storming",
+      "Norming",
+      "Adjourning"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Team members begin building trust, accepting rules, and cooperating effectively. Which stage is this?",
+    "options": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Adjourning"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A team is working efficiently, solving problems independently, and consistently achieving common goals. Which stage has it reached?",
+    "options": [
+      "Forming",
+      "Norming",
+      "Storming",
+      "Performing"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A project is completed, achievements are celebrated, and members move to other assignments. This represents:",
+    "options": [
+      "Adjourning",
+      "Performing",
+      "Forming",
+      "Norming"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which leadership quality helps a startup leader adjust when market conditions or team needs change?",
+    "options": [
+      "Confidence",
+      "Flexibility",
+      "Honesty",
+      "Communication"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A startup leader clearly explains instructions and shares important information with employees. Which leadership quality is being demonstrated?",
+    "options": [
+      "Vision",
+      "Confidence",
+      "Good communication",
+      "Flexibility"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which responsibility of a startup leader is most directly involved when disagreements arise among employees?",
+    "options": [
+      "Set goals only",
+      "Increase sales",
+      "Prepare financial statements",
+      "Solve problems"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which characteristic of an effective team allows members to confidently depend on one another?",
+    "options": [
+      "Trust",
+      "Competition",
+      "Individual control",
+      "Autocratic behavior"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How does team building improve startup productivity?",
+    "options": [
+      "By increasing conflicts",
+      "By helping members work more efficiently together",
+      "By removing defined responsibilities",
+      "By reducing communication"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A head nurse assigns all duties without asking staff members for their opinions. Which leadership style is being used?",
+    "options": [
+      "Democratic",
+      "Transformational",
+      "Autocratic",
+      "Laissez-faire"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A leader asks employees for suggestions before making an important decision. Which style does this best represent?",
+    "options": [
+      "Transactional",
+      "Laissez-faire",
+      "Autocratic",
+      "Democratic"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A senior leader allows experienced team members to make decisions and work independently. Which leadership style is this?",
+    "options": [
+      "Laissez-faire",
+      "Transactional",
+      "Transformational",
+      "Autocratic"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A manager inspires employees to improve performance and work toward a shared vision. Which style is most clearly demonstrated?",
+    "options": [
+      "Democratic only",
+      "Transformational",
+      "Autocratic",
+      "Transactional"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A manager gives bonuses to employees who meet performance targets and penalties to those who do not. Which leadership style is being used?",
+    "options": [
+      "Laissez-faire",
+      "Democratic",
+      "Transactional",
+      "Transformational"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In leadership and coaching, assigning tasks according to team members’ abilities is called:",
+    "options": [
+      "Feedback",
+      "Motivation",
+      "Communication",
+      "Delegation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A team has frequent misunderstandings because members do not believe one another will perform assigned duties properly. Which solution is most appropriate according to the chapter?",
+    "options": [
+      "Build trust through honesty",
+      "Give everyone different goals",
+      "Reduce communication",
+      "Avoid responsibility"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A startup team has members working toward different objectives. Which solution best addresses this problem?",
+    "options": [
+      "Increase competition",
+      "Set common goals",
+      "Remove leadership",
+      "Reduce cooperation"
+    ],
+    "correctAnswer": 1
+  }
+]
