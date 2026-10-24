@@ -1,0 +1,302 @@
+[
+  {
+    "question": "A customer of one bank withdraws money from the ATM of another member bank. Which 1LINK service makes this possible?",
+    "options": [
+      "ATM Switching",
+      "Bill Payment Service",
+      "Mini Statement",
+      "Digital Wallet"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which service allows money to be transferred directly from one bank account to another bank account?",
+    "options": [
+      "Balance Inquiry",
+      "IBFT",
+      "Mini Statement",
+      "Mobile Recharge"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement best describes MNET according to the chapter?",
+    "options": [
+      "A social media payment platform",
+      "A shopping website",
+      "An electronic banking and ATM network connecting different financial institutions",
+      "A government tax system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A user wants to see recent account transactions through an ATM. Which service is most appropriate?",
+    "options": [
+      "Cash Withdrawal",
+      "Fund Transfer",
+      "Balance Inquiry",
+      "Mini Statement"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the main advantage of online banking over traditional branch banking?",
+    "options": [
+      "It allows users to manage accounts without visiting a branch",
+      "It can only be used during office hours",
+      "It does not allow fund transfers",
+      "It requires physical cash for every transaction"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A customer uses a mobile banking app to pay electricity and internet bills. Which online banking benefit is being used?",
+    "options": [
+      "Account opening",
+      "Online bill payment",
+      "Loan approval",
+      "ATM switching"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is best classified as a digital financial management tool?",
+    "options": [
+      "Printer",
+      "Spreadsheet only",
+      "JazzCash",
+      "Search engine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A user sends money to another person, pays bills, and recharges a mobile balance through one app. Which service best matches this scenario?",
+    "options": [
+      "1LINK only",
+      "MNET only",
+      "Online shopping",
+      "Digital wallet service such as JazzCash or Easypaisa"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which ICT development has made it easier for users to review deposits, withdrawals, and transfers over time?",
+    "options": [
+      "Financial record management",
+      "Traditional shopping",
+      "Physical banking forms",
+      "Manual bookkeeping only"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which statement best defines cybercrime?",
+    "options": [
+      "Legal online shopping",
+      "Illegal activities carried out using digital devices, networks, or the internet",
+      "Responsible internet use",
+      "Online education"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which behavior is the best example of netiquette?",
+    "options": [
+      "Sharing private information without permission",
+      "Sending repeated spam messages",
+      "Using respectful language and protecting privacy",
+      "Posting false information"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement correctly describes finance?",
+    "options": [
+      "Only depositing money in banks",
+      "Only borrowing money",
+      "Only earning salaries",
+      "Managing money through saving, spending, borrowing, investing, and budgeting"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A customer buys a mobile phone from Daraz. Which type of e-commerce is this?",
+    "options": [
+      "B2C",
+      "B2B",
+      "C2C",
+      "C2B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A wholesaler sells computer accessories online to a retail shop. Which type of e-commerce is represented?",
+    "options": [
+      "C2C",
+      "B2B",
+      "B2C",
+      "G2C"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person sells a used laptop to another person through an online marketplace. Which e-commerce model applies?",
+    "options": [
+      "B2G",
+      "C2B",
+      "C2C",
+      "B2C"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A freelance designer creates a logo for a company through an online platform. Which type of e-commerce is this?",
+    "options": [
+      "B2B",
+      "G2C",
+      "B2C",
+      "C2B"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A software company provides an online management system to a government department. Which type of e-commerce does this represent?",
+    "options": [
+      "B2G",
+      "C2C",
+      "B2C",
+      "G2C"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Citizens pay government fees through an online portal. Which model is this?",
+    "options": [
+      "C2B",
+      "G2C",
+      "B2G",
+      "B2B"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which benefit of e-commerce is most directly shown when a business sells to customers in different cities?",
+    "options": [
+      "Physical product checking",
+      "Immediate delivery",
+      "Wider market reach",
+      "Limited product variety"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which is an advantage of online shopping over traditional shopping according to the chapter?",
+    "options": [
+      "Products can always be physically checked first",
+      "Goods are always received immediately",
+      "Shopping depends on store opening hours",
+      "Prices can be compared quickly across websites"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which statement best defines digital citizenship?",
+    "options": [
+      "Using digital technologies safely, ethically, responsibly, and respectfully",
+      "Using the internet only for entertainment",
+      "Creating multiple social media accounts",
+      "Avoiding all digital platforms"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which action best demonstrates responsible digital citizenship?",
+    "options": [
+      "Sharing passwords with friends",
+      "Verifying information before sharing it",
+      "Downloading cracked software",
+      "Posting private photos of others without permission"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person’s usernames, profiles, photos, posts, and online interactions together form their:",
+    "options": [
+      "Online payment record",
+      "Digital wallet",
+      "Digital identity",
+      "Software license"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is online reputation?",
+    "options": [
+      "A person's bank balance online",
+      "A user’s password strength",
+      "The number of social media accounts someone has",
+      "The impression others form based on a person’s online behavior and content"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which netiquette rule is violated when someone shares another person's private messages without permission?",
+    "options": [
+      "Respect others’ privacy",
+      "Use polite language",
+      "Avoid spam",
+      "Think before posting"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Repeatedly sending threatening or insulting messages through social media is best classified as:",
+    "options": [
+      "Software piracy",
+      "Cyberbullying",
+      "E-commerce",
+      "Netiquette"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Creating a fake account and pretending to be someone else to damage their reputation is called:",
+    "options": [
+      "Exclusion",
+      "Cyberstalking",
+      "Impersonation",
+      "Spamming"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which is the most appropriate response to online harassment according to the chapter?",
+    "options": [
+      "Reply aggressively",
+      "Share the messages publicly",
+      "Delete all evidence immediately",
+      "Block and report the offender while keeping evidence"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Installing one licensed copy of software on more computers than the license allows is known as:",
+    "options": [
+      "Softlifting",
+      "Counterfeiting",
+      "Internet piracy",
+      "Hard-disk loading"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A computer seller installs unauthorized software on computers before selling them. Which type of software piracy is this?",
+    "options": [
+      "Client-server overuse",
+      "Hard-disk loading",
+      "Internet piracy",
+      "Counterfeiting"
+    ],
+    "correctAnswer": 1
+  }
+]
